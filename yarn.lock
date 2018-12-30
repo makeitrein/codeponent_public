@@ -8683,6 +8683,12 @@ table@^4.0.3:
     slice-ansi "1.0.0"
     string-width "^2.1.1"
 
+tailwindcss-transforms@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/tailwindcss-transforms/-/tailwindcss-transforms-1.0.2.tgz#ee952e912669c2e398a22a5d7f1ca83c79fc1c3f"
+  dependencies:
+    lodash "^4.17.10"
+
 tailwindcss@^0.7.3:
   version "0.7.3"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-0.7.3.tgz#7b58605dd7857507c4dbc6edaccab4c14d30c054"

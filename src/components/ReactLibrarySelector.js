@@ -8,45 +8,55 @@ import ReactLibraryOption from './ReactLibraryOption';
 const mockData = [
     {
         title: 'AntD',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Blueprint',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Material UI',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'React Toolbox',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Gatsby',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Fabric',
-    },
-    {
-        title: 'Fabric',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Evergreen',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Gestalt',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Atlaskit',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Elastic UI',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Grommet',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Semantic UI',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
     {
         title: 'Onsen',
+        description: 'React components that implement Google’s Material Design. At over 35k Stars (!), it’s the most popular and widely used React UI library on GitHub.'
     },
 ];
 
@@ -71,7 +81,7 @@ const ReactLibrarySelector = (client) => (
             return (<div>
                     <List
                         grid={{
-                            gutter: 16, xs: 1, sm: 2, md: 4, lg: 6, xl: 8,
+                            gutter: 16, xs: 1, sm: 2, md: 4, lg: 6,
                         }}
                         dataSource={mockData}
                         renderItem={item => (

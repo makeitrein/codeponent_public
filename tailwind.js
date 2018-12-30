@@ -96,15 +96,16 @@ let colors = {
   'teal-lighter': '#a0f0ed',
   'teal-lightest': '#e8fffe',
 
-  'blue-darkest': '#12283a',
-  'blue-darker': '#1c3d5a',
-  'blue-dark': '#2779bd',
-  'blue': '#3490dc',
-  'blue-light': '#6cb2eb',
-  'blue-lighter': '#bcdefa',
-  'blue-lightest': '#eff8ff',
+  'blue-darkest': '#a8c',
+  'blue-darker': '#0050',
+  'blue-dark': '#1890',
+  'blue': '#1890ff',
+  'blue-light': '#a9ff',
+  'blue-lighter': '#bae7ff',
+  'blue-lightest': '#e6f7ff',
 
-  'indigo-darkest': '#191e38',
+
+'indigo-darkest': '#191e38',
   'indigo-darker': '#2f365f',
   'indigo-dark': '#5661b3',
   'indigo': '#6574cd',
@@ -195,6 +196,9 @@ module.exports = {
 
   fonts: {
     'sans': [
+      "-apple-system",
+      "BlinkMacSystemFont",
+      "Segoe UI",
       'system-ui',
       'BlinkMacSystemFont',
       '-apple-system',
@@ -207,7 +211,10 @@ module.exports = {
       'Droid Sans',
       'Helvetica Neue',
       'sans-serif',
-    ],
+
+
+
+],
     'serif': [
       'Constantia',
       'Lucida Bright',
@@ -770,7 +777,7 @@ module.exports = {
   shadows: {
     default: '0 2px 4px 0 rgba(0,0,0,0.10)',
     'md': '0 4px 8px 0 rgba(0,0,0,0.12), 0 2px 4px 0 rgba(0,0,0,0.08)',
-    'lg': '0 15px 30px 0 rgba(0,0,0,0.11), 0 5px 15px 0 rgba(0,0,0,0.08)',
+    'lg': '0 13px 27px -5px rgba(50,50,93,.25), 0 8px 16px -8px rgba(0,0,0,.3)',
     'inner': 'inset 0 2px 4px 0 rgba(0,0,0,0.06)',
     'outline': '0 0 0 3px rgba(52,144,220,0.5)',
     'none': 'none',
@@ -906,7 +913,7 @@ module.exports = {
     height: ['responsive'],
     leading: ['responsive'],
     lists: ['responsive'],
-    margin: ['responsive'],
+    margin: ['hover', 'responsive'],
     maxHeight: ['responsive'],
     maxWidth: ['responsive'],
     minHeight: ['responsive'],
@@ -959,6 +966,44 @@ module.exports = {
       // padding: '1rem',
     }),
     require('glhd-tailwindcss-transitions')(),
+      require('tailwindcss-transforms')({
+          variants: ['responsive'],
+          translate: {
+              '1/2': '50%',
+              'full': '100%',
+          },
+          negativeTranslate: {
+              '1/2': '50%',
+              'full': '100%',
+          },
+          scale: {
+              '90': '0.9',
+              '100': '1',
+              '110': '1.1',
+          },
+          rotate: {
+              '90': '90deg',
+              '180': '180deg',
+              '270': '270deg',
+          },
+          negativeRotate: {
+              '90': '90deg',
+              '180': '180deg',
+              '270': '270deg',
+          },
+          skew: {
+              '5': '5deg',
+          },
+          negativeSkew: {
+              '5': '5deg',
+          },
+          origins: {
+              't': '50% 0%',
+              'r': '100% 50%',
+              'b': '50% 100%',
+              'l': '0% 50%',
+          },
+      }),
 
   ],
 

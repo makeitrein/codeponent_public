@@ -728,31 +728,31 @@ table {
 }
 
 .bg-blue-darkest {
-  background-color: #12283a;
+  background-color: #a8c;
 }
 
 .bg-blue-darker {
-  background-color: #1c3d5a;
+  background-color: #0050;
 }
 
 .bg-blue-dark {
-  background-color: #2779bd;
+  background-color: #1890;
 }
 
 .bg-blue {
-  background-color: #3490dc;
+  background-color: #1890ff;
 }
 
 .bg-blue-light {
-  background-color: #6cb2eb;
+  background-color: #a9ff;
 }
 
 .bg-blue-lighter {
-  background-color: #bcdefa;
+  background-color: #bae7ff;
 }
 
 .bg-blue-lightest {
-  background-color: #eff8ff;
+  background-color: #e6f7ff;
 }
 
 .bg-indigo-darkest {
@@ -1020,31 +1020,31 @@ table {
 }
 
 .hover\:bg-blue-darkest:hover {
-  background-color: #12283a;
+  background-color: #a8c;
 }
 
 .hover\:bg-blue-darker:hover {
-  background-color: #1c3d5a;
+  background-color: #0050;
 }
 
 .hover\:bg-blue-dark:hover {
-  background-color: #2779bd;
+  background-color: #1890;
 }
 
 .hover\:bg-blue:hover {
-  background-color: #3490dc;
+  background-color: #1890ff;
 }
 
 .hover\:bg-blue-light:hover {
-  background-color: #6cb2eb;
+  background-color: #a9ff;
 }
 
 .hover\:bg-blue-lighter:hover {
-  background-color: #bcdefa;
+  background-color: #bae7ff;
 }
 
 .hover\:bg-blue-lightest:hover {
-  background-color: #eff8ff;
+  background-color: #e6f7ff;
 }
 
 .hover\:bg-indigo-darkest:hover {
@@ -1312,31 +1312,31 @@ table {
 }
 
 .focus\:bg-blue-darkest:focus {
-  background-color: #12283a;
+  background-color: #a8c;
 }
 
 .focus\:bg-blue-darker:focus {
-  background-color: #1c3d5a;
+  background-color: #0050;
 }
 
 .focus\:bg-blue-dark:focus {
-  background-color: #2779bd;
+  background-color: #1890;
 }
 
 .focus\:bg-blue:focus {
-  background-color: #3490dc;
+  background-color: #1890ff;
 }
 
 .focus\:bg-blue-light:focus {
-  background-color: #6cb2eb;
+  background-color: #a9ff;
 }
 
 .focus\:bg-blue-lighter:focus {
-  background-color: #bcdefa;
+  background-color: #bae7ff;
 }
 
 .focus\:bg-blue-lightest:focus {
-  background-color: #eff8ff;
+  background-color: #e6f7ff;
 }
 
 .focus\:bg-indigo-darkest:focus {
@@ -1676,31 +1676,31 @@ table {
 }
 
 .border-blue-darkest {
-  border-color: #12283a;
+  border-color: #a8c;
 }
 
 .border-blue-darker {
-  border-color: #1c3d5a;
+  border-color: #0050;
 }
 
 .border-blue-dark {
-  border-color: #2779bd;
+  border-color: #1890;
 }
 
 .border-blue {
-  border-color: #3490dc;
+  border-color: #1890ff;
 }
 
 .border-blue-light {
-  border-color: #6cb2eb;
+  border-color: #a9ff;
 }
 
 .border-blue-lighter {
-  border-color: #bcdefa;
+  border-color: #bae7ff;
 }
 
 .border-blue-lightest {
-  border-color: #eff8ff;
+  border-color: #e6f7ff;
 }
 
 .border-indigo-darkest {
@@ -1968,31 +1968,31 @@ table {
 }
 
 .hover\:border-blue-darkest:hover {
-  border-color: #12283a;
+  border-color: #a8c;
 }
 
 .hover\:border-blue-darker:hover {
-  border-color: #1c3d5a;
+  border-color: #0050;
 }
 
 .hover\:border-blue-dark:hover {
-  border-color: #2779bd;
+  border-color: #1890;
 }
 
 .hover\:border-blue:hover {
-  border-color: #3490dc;
+  border-color: #1890ff;
 }
 
 .hover\:border-blue-light:hover {
-  border-color: #6cb2eb;
+  border-color: #a9ff;
 }
 
 .hover\:border-blue-lighter:hover {
-  border-color: #bcdefa;
+  border-color: #bae7ff;
 }
 
 .hover\:border-blue-lightest:hover {
-  border-color: #eff8ff;
+  border-color: #e6f7ff;
 }
 
 .hover\:border-indigo-darkest:hover {
@@ -2260,31 +2260,31 @@ table {
 }
 
 .focus\:border-blue-darkest:focus {
-  border-color: #12283a;
+  border-color: #a8c;
 }
 
 .focus\:border-blue-darker:focus {
-  border-color: #1c3d5a;
+  border-color: #0050;
 }
 
 .focus\:border-blue-dark:focus {
-  border-color: #2779bd;
+  border-color: #1890;
 }
 
 .focus\:border-blue:focus {
-  border-color: #3490dc;
+  border-color: #1890ff;
 }
 
 .focus\:border-blue-light:focus {
-  border-color: #6cb2eb;
+  border-color: #a9ff;
 }
 
 .focus\:border-blue-lighter:focus {
-  border-color: #bcdefa;
+  border-color: #bae7ff;
 }
 
 .focus\:border-blue-lightest:focus {
-  border-color: #eff8ff;
+  border-color: #e6f7ff;
 }
 
 .focus\:border-indigo-darkest:focus {
@@ -2931,7 +2931,7 @@ table {
 }
 
 .font-sans {
-  font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
 .font-serif {
@@ -3615,6 +3615,486 @@ table {
 }
 
 .ml-px {
+  margin-left: 1px;
+}
+
+.hover\:m-0:hover {
+  margin: 0;
+}
+
+.hover\:m-1:hover {
+  margin: .25rem;
+}
+
+.hover\:m-2:hover {
+  margin: .5rem;
+}
+
+.hover\:m-3:hover {
+  margin: .75rem;
+}
+
+.hover\:m-4:hover {
+  margin: 1rem;
+}
+
+.hover\:m-5:hover {
+  margin: 1.25rem;
+}
+
+.hover\:m-6:hover {
+  margin: 1.5rem;
+}
+
+.hover\:m-8:hover {
+  margin: 2rem;
+}
+
+.hover\:m-10:hover {
+  margin: 2.5rem;
+}
+
+.hover\:m-12:hover {
+  margin: 3rem;
+}
+
+.hover\:m-16:hover {
+  margin: 4rem;
+}
+
+.hover\:m-20:hover {
+  margin: 5rem;
+}
+
+.hover\:m-24:hover {
+  margin: 6rem;
+}
+
+.hover\:m-32:hover {
+  margin: 8rem;
+}
+
+.hover\:m-auto:hover {
+  margin: auto;
+}
+
+.hover\:m-px:hover {
+  margin: 1px;
+}
+
+.hover\:my-0:hover {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.hover\:mx-0:hover {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.hover\:my-1:hover {
+  margin-top: .25rem;
+  margin-bottom: .25rem;
+}
+
+.hover\:mx-1:hover {
+  margin-left: .25rem;
+  margin-right: .25rem;
+}
+
+.hover\:my-2:hover {
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+}
+
+.hover\:mx-2:hover {
+  margin-left: .5rem;
+  margin-right: .5rem;
+}
+
+.hover\:my-3:hover {
+  margin-top: .75rem;
+  margin-bottom: .75rem;
+}
+
+.hover\:mx-3:hover {
+  margin-left: .75rem;
+  margin-right: .75rem;
+}
+
+.hover\:my-4:hover {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.hover\:mx-4:hover {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.hover\:my-5:hover {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.hover\:mx-5:hover {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+}
+
+.hover\:my-6:hover {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.hover\:mx-6:hover {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.hover\:my-8:hover {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.hover\:mx-8:hover {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.hover\:my-10:hover {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.hover\:mx-10:hover {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
+.hover\:my-12:hover {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.hover\:mx-12:hover {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.hover\:my-16:hover {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.hover\:mx-16:hover {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
+.hover\:my-20:hover {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.hover\:mx-20:hover {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+.hover\:my-24:hover {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+
+.hover\:mx-24:hover {
+  margin-left: 6rem;
+  margin-right: 6rem;
+}
+
+.hover\:my-32:hover {
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+}
+
+.hover\:mx-32:hover {
+  margin-left: 8rem;
+  margin-right: 8rem;
+}
+
+.hover\:my-auto:hover {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.hover\:mx-auto:hover {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hover\:my-px:hover {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.hover\:mx-px:hover {
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+.hover\:mt-0:hover {
+  margin-top: 0;
+}
+
+.hover\:mr-0:hover {
+  margin-right: 0;
+}
+
+.hover\:mb-0:hover {
+  margin-bottom: 0;
+}
+
+.hover\:ml-0:hover {
+  margin-left: 0;
+}
+
+.hover\:mt-1:hover {
+  margin-top: .25rem;
+}
+
+.hover\:mr-1:hover {
+  margin-right: .25rem;
+}
+
+.hover\:mb-1:hover {
+  margin-bottom: .25rem;
+}
+
+.hover\:ml-1:hover {
+  margin-left: .25rem;
+}
+
+.hover\:mt-2:hover {
+  margin-top: .5rem;
+}
+
+.hover\:mr-2:hover {
+  margin-right: .5rem;
+}
+
+.hover\:mb-2:hover {
+  margin-bottom: .5rem;
+}
+
+.hover\:ml-2:hover {
+  margin-left: .5rem;
+}
+
+.hover\:mt-3:hover {
+  margin-top: .75rem;
+}
+
+.hover\:mr-3:hover {
+  margin-right: .75rem;
+}
+
+.hover\:mb-3:hover {
+  margin-bottom: .75rem;
+}
+
+.hover\:ml-3:hover {
+  margin-left: .75rem;
+}
+
+.hover\:mt-4:hover {
+  margin-top: 1rem;
+}
+
+.hover\:mr-4:hover {
+  margin-right: 1rem;
+}
+
+.hover\:mb-4:hover {
+  margin-bottom: 1rem;
+}
+
+.hover\:ml-4:hover {
+  margin-left: 1rem;
+}
+
+.hover\:mt-5:hover {
+  margin-top: 1.25rem;
+}
+
+.hover\:mr-5:hover {
+  margin-right: 1.25rem;
+}
+
+.hover\:mb-5:hover {
+  margin-bottom: 1.25rem;
+}
+
+.hover\:ml-5:hover {
+  margin-left: 1.25rem;
+}
+
+.hover\:mt-6:hover {
+  margin-top: 1.5rem;
+}
+
+.hover\:mr-6:hover {
+  margin-right: 1.5rem;
+}
+
+.hover\:mb-6:hover {
+  margin-bottom: 1.5rem;
+}
+
+.hover\:ml-6:hover {
+  margin-left: 1.5rem;
+}
+
+.hover\:mt-8:hover {
+  margin-top: 2rem;
+}
+
+.hover\:mr-8:hover {
+  margin-right: 2rem;
+}
+
+.hover\:mb-8:hover {
+  margin-bottom: 2rem;
+}
+
+.hover\:ml-8:hover {
+  margin-left: 2rem;
+}
+
+.hover\:mt-10:hover {
+  margin-top: 2.5rem;
+}
+
+.hover\:mr-10:hover {
+  margin-right: 2.5rem;
+}
+
+.hover\:mb-10:hover {
+  margin-bottom: 2.5rem;
+}
+
+.hover\:ml-10:hover {
+  margin-left: 2.5rem;
+}
+
+.hover\:mt-12:hover {
+  margin-top: 3rem;
+}
+
+.hover\:mr-12:hover {
+  margin-right: 3rem;
+}
+
+.hover\:mb-12:hover {
+  margin-bottom: 3rem;
+}
+
+.hover\:ml-12:hover {
+  margin-left: 3rem;
+}
+
+.hover\:mt-16:hover {
+  margin-top: 4rem;
+}
+
+.hover\:mr-16:hover {
+  margin-right: 4rem;
+}
+
+.hover\:mb-16:hover {
+  margin-bottom: 4rem;
+}
+
+.hover\:ml-16:hover {
+  margin-left: 4rem;
+}
+
+.hover\:mt-20:hover {
+  margin-top: 5rem;
+}
+
+.hover\:mr-20:hover {
+  margin-right: 5rem;
+}
+
+.hover\:mb-20:hover {
+  margin-bottom: 5rem;
+}
+
+.hover\:ml-20:hover {
+  margin-left: 5rem;
+}
+
+.hover\:mt-24:hover {
+  margin-top: 6rem;
+}
+
+.hover\:mr-24:hover {
+  margin-right: 6rem;
+}
+
+.hover\:mb-24:hover {
+  margin-bottom: 6rem;
+}
+
+.hover\:ml-24:hover {
+  margin-left: 6rem;
+}
+
+.hover\:mt-32:hover {
+  margin-top: 8rem;
+}
+
+.hover\:mr-32:hover {
+  margin-right: 8rem;
+}
+
+.hover\:mb-32:hover {
+  margin-bottom: 8rem;
+}
+
+.hover\:ml-32:hover {
+  margin-left: 8rem;
+}
+
+.hover\:mt-auto:hover {
+  margin-top: auto;
+}
+
+.hover\:mr-auto:hover {
+  margin-right: auto;
+}
+
+.hover\:mb-auto:hover {
+  margin-bottom: auto;
+}
+
+.hover\:ml-auto:hover {
+  margin-left: auto;
+}
+
+.hover\:mt-px:hover {
+  margin-top: 1px;
+}
+
+.hover\:mr-px:hover {
+  margin-right: 1px;
+}
+
+.hover\:mb-px:hover {
+  margin-bottom: 1px;
+}
+
+.hover\:ml-px:hover {
   margin-left: 1px;
 }
 
@@ -4764,7 +5244,7 @@ table {
 }
 
 .shadow-lg {
-  box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
 }
 
 .shadow-inner {
@@ -4788,7 +5268,7 @@ table {
 }
 
 .hover\:shadow-lg:hover {
-  box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
 }
 
 .hover\:shadow-inner:hover {
@@ -4812,7 +5292,7 @@ table {
 }
 
 .focus\:shadow-lg:focus {
-  box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
 }
 
 .focus\:shadow-inner:focus {
@@ -5040,31 +5520,31 @@ table {
 }
 
 .text-blue-darkest {
-  color: #12283a;
+  color: #a8c;
 }
 
 .text-blue-darker {
-  color: #1c3d5a;
+  color: #0050;
 }
 
 .text-blue-dark {
-  color: #2779bd;
+  color: #1890;
 }
 
 .text-blue {
-  color: #3490dc;
+  color: #1890ff;
 }
 
 .text-blue-light {
-  color: #6cb2eb;
+  color: #a9ff;
 }
 
 .text-blue-lighter {
-  color: #bcdefa;
+  color: #bae7ff;
 }
 
 .text-blue-lightest {
-  color: #eff8ff;
+  color: #e6f7ff;
 }
 
 .text-indigo-darkest {
@@ -5332,31 +5812,31 @@ table {
 }
 
 .hover\:text-blue-darkest:hover {
-  color: #12283a;
+  color: #a8c;
 }
 
 .hover\:text-blue-darker:hover {
-  color: #1c3d5a;
+  color: #0050;
 }
 
 .hover\:text-blue-dark:hover {
-  color: #2779bd;
+  color: #1890;
 }
 
 .hover\:text-blue:hover {
-  color: #3490dc;
+  color: #1890ff;
 }
 
 .hover\:text-blue-light:hover {
-  color: #6cb2eb;
+  color: #a9ff;
 }
 
 .hover\:text-blue-lighter:hover {
-  color: #bcdefa;
+  color: #bae7ff;
 }
 
 .hover\:text-blue-lightest:hover {
-  color: #eff8ff;
+  color: #e6f7ff;
 }
 
 .hover\:text-indigo-darkest:hover {
@@ -5624,31 +6104,31 @@ table {
 }
 
 .focus\:text-blue-darkest:focus {
-  color: #12283a;
+  color: #a8c;
 }
 
 .focus\:text-blue-darker:focus {
-  color: #1c3d5a;
+  color: #0050;
 }
 
 .focus\:text-blue-dark:focus {
-  color: #2779bd;
+  color: #1890;
 }
 
 .focus\:text-blue:focus {
-  color: #3490dc;
+  color: #1890ff;
 }
 
 .focus\:text-blue-light:focus {
-  color: #6cb2eb;
+  color: #a9ff;
 }
 
 .focus\:text-blue-lighter:focus {
-  color: #bcdefa;
+  color: #bae7ff;
 }
 
 .focus\:text-blue-lightest:focus {
-  color: #eff8ff;
+  color: #e6f7ff;
 }
 
 .focus\:text-indigo-darkest:focus {
@@ -6260,6 +6740,166 @@ table {
           transition-delay: 0s;
 }
 
+.transform-none {
+  -webkit-transform: none;
+          transform: none;
+}
+
+.translate-x-1\/2 {
+  -webkit-transform: translateX(50%);
+          transform: translateX(50%);
+}
+
+.translate-y-1\/2 {
+  -webkit-transform: translateY(50%);
+          transform: translateY(50%);
+}
+
+.translate-x-full {
+  -webkit-transform: translateX(100%);
+          transform: translateX(100%);
+}
+
+.translate-y-full {
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+}
+
+.-translate-x-1\/2 {
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+
+.-translate-y-1\/2 {
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.-translate-x-full {
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+}
+
+.-translate-y-full {
+  -webkit-transform: translateY(-100%);
+          transform: translateY(-100%);
+}
+
+.scale-90 {
+  -webkit-transform: scale(.9);
+          transform: scale(.9);
+}
+
+.scale-x-90 {
+  -webkit-transform: scaleX(.9);
+          transform: scaleX(.9);
+}
+
+.scale-y-90 {
+  -webkit-transform: scaleY(.9);
+          transform: scaleY(.9);
+}
+
+.scale-100 {
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+
+.scale-x-100 {
+  -webkit-transform: scaleX(1);
+          transform: scaleX(1);
+}
+
+.scale-y-100 {
+  -webkit-transform: scaleY(1);
+          transform: scaleY(1);
+}
+
+.scale-110 {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.scale-x-110 {
+  -webkit-transform: scaleX(1.1);
+          transform: scaleX(1.1);
+}
+
+.scale-y-110 {
+  -webkit-transform: scaleY(1.1);
+          transform: scaleY(1.1);
+}
+
+.rotate-90 {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.rotate-180 {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.rotate-270 {
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.-rotate-90 {
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+
+.-rotate-180 {
+  -webkit-transform: rotate(-180deg);
+          transform: rotate(-180deg);
+}
+
+.-rotate-270 {
+  -webkit-transform: rotate(-270deg);
+          transform: rotate(-270deg);
+}
+
+.skew-x-5 {
+  -webkit-transform: skewX(5deg);
+          transform: skewX(5deg);
+}
+
+.skew-y-5 {
+  -webkit-transform: skewY(5deg);
+          transform: skewY(5deg);
+}
+
+.-skew-x-5 {
+  -webkit-transform: skewX(-5deg);
+          transform: skewX(-5deg);
+}
+
+.-skew-y-5 {
+  -webkit-transform: skewY(-5deg);
+          transform: skewY(-5deg);
+}
+
+.transform-origin-t {
+  -webkit-transform-origin: 50% 0%;
+          transform-origin: 50% 0%;
+}
+
+.transform-origin-r {
+  -webkit-transform-origin: 100% 50%;
+          transform-origin: 100% 50%;
+}
+
+.transform-origin-b {
+  -webkit-transform-origin: 50% 100%;
+          transform-origin: 50% 100%;
+}
+
+.transform-origin-l {
+  -webkit-transform-origin: 0% 50%;
+          transform-origin: 0% 50%;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
@@ -6465,31 +7105,31 @@ table {
   }
 
   .sm\:bg-blue-darkest {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .sm\:bg-blue-darker {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .sm\:bg-blue-dark {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .sm\:bg-blue {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .sm\:bg-blue-light {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .sm\:bg-blue-lighter {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .sm\:bg-blue-lightest {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .sm\:bg-indigo-darkest {
@@ -6757,31 +7397,31 @@ table {
   }
 
   .sm\:hover\:bg-blue-darkest:hover {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .sm\:hover\:bg-blue-darker:hover {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .sm\:hover\:bg-blue-dark:hover {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .sm\:hover\:bg-blue:hover {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .sm\:hover\:bg-blue-light:hover {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .sm\:hover\:bg-blue-lighter:hover {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .sm\:hover\:bg-blue-lightest:hover {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .sm\:hover\:bg-indigo-darkest:hover {
@@ -7049,31 +7689,31 @@ table {
   }
 
   .sm\:focus\:bg-blue-darkest:focus {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .sm\:focus\:bg-blue-darker:focus {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .sm\:focus\:bg-blue-dark:focus {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .sm\:focus\:bg-blue:focus {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .sm\:focus\:bg-blue-light:focus {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .sm\:focus\:bg-blue-lighter:focus {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .sm\:focus\:bg-blue-lightest:focus {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .sm\:focus\:bg-indigo-darkest:focus {
@@ -7405,31 +8045,31 @@ table {
   }
 
   .sm\:border-blue-darkest {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .sm\:border-blue-darker {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .sm\:border-blue-dark {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .sm\:border-blue {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .sm\:border-blue-light {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .sm\:border-blue-lighter {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .sm\:border-blue-lightest {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .sm\:border-indigo-darkest {
@@ -7697,31 +8337,31 @@ table {
   }
 
   .sm\:hover\:border-blue-darkest:hover {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .sm\:hover\:border-blue-darker:hover {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .sm\:hover\:border-blue-dark:hover {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .sm\:hover\:border-blue:hover {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .sm\:hover\:border-blue-light:hover {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .sm\:hover\:border-blue-lighter:hover {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .sm\:hover\:border-blue-lightest:hover {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .sm\:hover\:border-indigo-darkest:hover {
@@ -7989,31 +8629,31 @@ table {
   }
 
   .sm\:focus\:border-blue-darkest:focus {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .sm\:focus\:border-blue-darker:focus {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .sm\:focus\:border-blue-dark:focus {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .sm\:focus\:border-blue:focus {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .sm\:focus\:border-blue-light:focus {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .sm\:focus\:border-blue-lighter:focus {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .sm\:focus\:border-blue-lightest:focus {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .sm\:focus\:border-indigo-darkest:focus {
@@ -8660,7 +9300,7 @@ table {
   }
 
   .sm\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .sm\:font-serif {
@@ -9344,6 +9984,486 @@ table {
   }
 
   .sm\:ml-px {
+    margin-left: 1px;
+  }
+
+  .sm\:hover\:m-0:hover {
+    margin: 0;
+  }
+
+  .sm\:hover\:m-1:hover {
+    margin: .25rem;
+  }
+
+  .sm\:hover\:m-2:hover {
+    margin: .5rem;
+  }
+
+  .sm\:hover\:m-3:hover {
+    margin: .75rem;
+  }
+
+  .sm\:hover\:m-4:hover {
+    margin: 1rem;
+  }
+
+  .sm\:hover\:m-5:hover {
+    margin: 1.25rem;
+  }
+
+  .sm\:hover\:m-6:hover {
+    margin: 1.5rem;
+  }
+
+  .sm\:hover\:m-8:hover {
+    margin: 2rem;
+  }
+
+  .sm\:hover\:m-10:hover {
+    margin: 2.5rem;
+  }
+
+  .sm\:hover\:m-12:hover {
+    margin: 3rem;
+  }
+
+  .sm\:hover\:m-16:hover {
+    margin: 4rem;
+  }
+
+  .sm\:hover\:m-20:hover {
+    margin: 5rem;
+  }
+
+  .sm\:hover\:m-24:hover {
+    margin: 6rem;
+  }
+
+  .sm\:hover\:m-32:hover {
+    margin: 8rem;
+  }
+
+  .sm\:hover\:m-auto:hover {
+    margin: auto;
+  }
+
+  .sm\:hover\:m-px:hover {
+    margin: 1px;
+  }
+
+  .sm\:hover\:my-0:hover {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .sm\:hover\:mx-0:hover {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .sm\:hover\:my-1:hover {
+    margin-top: .25rem;
+    margin-bottom: .25rem;
+  }
+
+  .sm\:hover\:mx-1:hover {
+    margin-left: .25rem;
+    margin-right: .25rem;
+  }
+
+  .sm\:hover\:my-2:hover {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+  }
+
+  .sm\:hover\:mx-2:hover {
+    margin-left: .5rem;
+    margin-right: .5rem;
+  }
+
+  .sm\:hover\:my-3:hover {
+    margin-top: .75rem;
+    margin-bottom: .75rem;
+  }
+
+  .sm\:hover\:mx-3:hover {
+    margin-left: .75rem;
+    margin-right: .75rem;
+  }
+
+  .sm\:hover\:my-4:hover {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .sm\:hover\:mx-4:hover {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .sm\:hover\:my-5:hover {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .sm\:hover\:mx-5:hover {
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+  }
+
+  .sm\:hover\:my-6:hover {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .sm\:hover\:mx-6:hover {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+
+  .sm\:hover\:my-8:hover {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .sm\:hover\:mx-8:hover {
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+
+  .sm\:hover\:my-10:hover {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .sm\:hover\:mx-10:hover {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+  }
+
+  .sm\:hover\:my-12:hover {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+
+  .sm\:hover\:mx-12:hover {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+
+  .sm\:hover\:my-16:hover {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+  }
+
+  .sm\:hover\:mx-16:hover {
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
+
+  .sm\:hover\:my-20:hover {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+
+  .sm\:hover\:mx-20:hover {
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+
+  .sm\:hover\:my-24:hover {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+  }
+
+  .sm\:hover\:mx-24:hover {
+    margin-left: 6rem;
+    margin-right: 6rem;
+  }
+
+  .sm\:hover\:my-32:hover {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+  }
+
+  .sm\:hover\:mx-32:hover {
+    margin-left: 8rem;
+    margin-right: 8rem;
+  }
+
+  .sm\:hover\:my-auto:hover {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .sm\:hover\:mx-auto:hover {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .sm\:hover\:my-px:hover {
+    margin-top: 1px;
+    margin-bottom: 1px;
+  }
+
+  .sm\:hover\:mx-px:hover {
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .sm\:hover\:mt-0:hover {
+    margin-top: 0;
+  }
+
+  .sm\:hover\:mr-0:hover {
+    margin-right: 0;
+  }
+
+  .sm\:hover\:mb-0:hover {
+    margin-bottom: 0;
+  }
+
+  .sm\:hover\:ml-0:hover {
+    margin-left: 0;
+  }
+
+  .sm\:hover\:mt-1:hover {
+    margin-top: .25rem;
+  }
+
+  .sm\:hover\:mr-1:hover {
+    margin-right: .25rem;
+  }
+
+  .sm\:hover\:mb-1:hover {
+    margin-bottom: .25rem;
+  }
+
+  .sm\:hover\:ml-1:hover {
+    margin-left: .25rem;
+  }
+
+  .sm\:hover\:mt-2:hover {
+    margin-top: .5rem;
+  }
+
+  .sm\:hover\:mr-2:hover {
+    margin-right: .5rem;
+  }
+
+  .sm\:hover\:mb-2:hover {
+    margin-bottom: .5rem;
+  }
+
+  .sm\:hover\:ml-2:hover {
+    margin-left: .5rem;
+  }
+
+  .sm\:hover\:mt-3:hover {
+    margin-top: .75rem;
+  }
+
+  .sm\:hover\:mr-3:hover {
+    margin-right: .75rem;
+  }
+
+  .sm\:hover\:mb-3:hover {
+    margin-bottom: .75rem;
+  }
+
+  .sm\:hover\:ml-3:hover {
+    margin-left: .75rem;
+  }
+
+  .sm\:hover\:mt-4:hover {
+    margin-top: 1rem;
+  }
+
+  .sm\:hover\:mr-4:hover {
+    margin-right: 1rem;
+  }
+
+  .sm\:hover\:mb-4:hover {
+    margin-bottom: 1rem;
+  }
+
+  .sm\:hover\:ml-4:hover {
+    margin-left: 1rem;
+  }
+
+  .sm\:hover\:mt-5:hover {
+    margin-top: 1.25rem;
+  }
+
+  .sm\:hover\:mr-5:hover {
+    margin-right: 1.25rem;
+  }
+
+  .sm\:hover\:mb-5:hover {
+    margin-bottom: 1.25rem;
+  }
+
+  .sm\:hover\:ml-5:hover {
+    margin-left: 1.25rem;
+  }
+
+  .sm\:hover\:mt-6:hover {
+    margin-top: 1.5rem;
+  }
+
+  .sm\:hover\:mr-6:hover {
+    margin-right: 1.5rem;
+  }
+
+  .sm\:hover\:mb-6:hover {
+    margin-bottom: 1.5rem;
+  }
+
+  .sm\:hover\:ml-6:hover {
+    margin-left: 1.5rem;
+  }
+
+  .sm\:hover\:mt-8:hover {
+    margin-top: 2rem;
+  }
+
+  .sm\:hover\:mr-8:hover {
+    margin-right: 2rem;
+  }
+
+  .sm\:hover\:mb-8:hover {
+    margin-bottom: 2rem;
+  }
+
+  .sm\:hover\:ml-8:hover {
+    margin-left: 2rem;
+  }
+
+  .sm\:hover\:mt-10:hover {
+    margin-top: 2.5rem;
+  }
+
+  .sm\:hover\:mr-10:hover {
+    margin-right: 2.5rem;
+  }
+
+  .sm\:hover\:mb-10:hover {
+    margin-bottom: 2.5rem;
+  }
+
+  .sm\:hover\:ml-10:hover {
+    margin-left: 2.5rem;
+  }
+
+  .sm\:hover\:mt-12:hover {
+    margin-top: 3rem;
+  }
+
+  .sm\:hover\:mr-12:hover {
+    margin-right: 3rem;
+  }
+
+  .sm\:hover\:mb-12:hover {
+    margin-bottom: 3rem;
+  }
+
+  .sm\:hover\:ml-12:hover {
+    margin-left: 3rem;
+  }
+
+  .sm\:hover\:mt-16:hover {
+    margin-top: 4rem;
+  }
+
+  .sm\:hover\:mr-16:hover {
+    margin-right: 4rem;
+  }
+
+  .sm\:hover\:mb-16:hover {
+    margin-bottom: 4rem;
+  }
+
+  .sm\:hover\:ml-16:hover {
+    margin-left: 4rem;
+  }
+
+  .sm\:hover\:mt-20:hover {
+    margin-top: 5rem;
+  }
+
+  .sm\:hover\:mr-20:hover {
+    margin-right: 5rem;
+  }
+
+  .sm\:hover\:mb-20:hover {
+    margin-bottom: 5rem;
+  }
+
+  .sm\:hover\:ml-20:hover {
+    margin-left: 5rem;
+  }
+
+  .sm\:hover\:mt-24:hover {
+    margin-top: 6rem;
+  }
+
+  .sm\:hover\:mr-24:hover {
+    margin-right: 6rem;
+  }
+
+  .sm\:hover\:mb-24:hover {
+    margin-bottom: 6rem;
+  }
+
+  .sm\:hover\:ml-24:hover {
+    margin-left: 6rem;
+  }
+
+  .sm\:hover\:mt-32:hover {
+    margin-top: 8rem;
+  }
+
+  .sm\:hover\:mr-32:hover {
+    margin-right: 8rem;
+  }
+
+  .sm\:hover\:mb-32:hover {
+    margin-bottom: 8rem;
+  }
+
+  .sm\:hover\:ml-32:hover {
+    margin-left: 8rem;
+  }
+
+  .sm\:hover\:mt-auto:hover {
+    margin-top: auto;
+  }
+
+  .sm\:hover\:mr-auto:hover {
+    margin-right: auto;
+  }
+
+  .sm\:hover\:mb-auto:hover {
+    margin-bottom: auto;
+  }
+
+  .sm\:hover\:ml-auto:hover {
+    margin-left: auto;
+  }
+
+  .sm\:hover\:mt-px:hover {
+    margin-top: 1px;
+  }
+
+  .sm\:hover\:mr-px:hover {
+    margin-right: 1px;
+  }
+
+  .sm\:hover\:mb-px:hover {
+    margin-bottom: 1px;
+  }
+
+  .sm\:hover\:ml-px:hover {
     margin-left: 1px;
   }
 
@@ -10485,7 +11605,7 @@ table {
   }
 
   .sm\:shadow-lg {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .sm\:shadow-inner {
@@ -10509,7 +11629,7 @@ table {
   }
 
   .sm\:hover\:shadow-lg:hover {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .sm\:hover\:shadow-inner:hover {
@@ -10533,7 +11653,7 @@ table {
   }
 
   .sm\:focus\:shadow-lg:focus {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .sm\:focus\:shadow-inner:focus {
@@ -10753,31 +11873,31 @@ table {
   }
 
   .sm\:text-blue-darkest {
-    color: #12283a;
+    color: #a8c;
   }
 
   .sm\:text-blue-darker {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .sm\:text-blue-dark {
-    color: #2779bd;
+    color: #1890;
   }
 
   .sm\:text-blue {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .sm\:text-blue-light {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .sm\:text-blue-lighter {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .sm\:text-blue-lightest {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .sm\:text-indigo-darkest {
@@ -11045,31 +12165,31 @@ table {
   }
 
   .sm\:hover\:text-blue-darkest:hover {
-    color: #12283a;
+    color: #a8c;
   }
 
   .sm\:hover\:text-blue-darker:hover {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .sm\:hover\:text-blue-dark:hover {
-    color: #2779bd;
+    color: #1890;
   }
 
   .sm\:hover\:text-blue:hover {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .sm\:hover\:text-blue-light:hover {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .sm\:hover\:text-blue-lighter:hover {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .sm\:hover\:text-blue-lightest:hover {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .sm\:hover\:text-indigo-darkest:hover {
@@ -11337,31 +12457,31 @@ table {
   }
 
   .sm\:focus\:text-blue-darkest:focus {
-    color: #12283a;
+    color: #a8c;
   }
 
   .sm\:focus\:text-blue-darker:focus {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .sm\:focus\:text-blue-dark:focus {
-    color: #2779bd;
+    color: #1890;
   }
 
   .sm\:focus\:text-blue:focus {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .sm\:focus\:text-blue-light:focus {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .sm\:focus\:text-blue-lighter:focus {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .sm\:focus\:text-blue-lightest:focus {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .sm\:focus\:text-indigo-darkest:focus {
@@ -11857,6 +12977,166 @@ table {
   .sm\:z-auto {
     z-index: auto;
   }
+
+  .sm\:transform-none {
+    -webkit-transform: none;
+            transform: none;
+  }
+
+  .sm\:translate-x-1\/2 {
+    -webkit-transform: translateX(50%);
+            transform: translateX(50%);
+  }
+
+  .sm\:translate-y-1\/2 {
+    -webkit-transform: translateY(50%);
+            transform: translateY(50%);
+  }
+
+  .sm\:translate-x-full {
+    -webkit-transform: translateX(100%);
+            transform: translateX(100%);
+  }
+
+  .sm\:translate-y-full {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%);
+  }
+
+  .sm\:-translate-x-1\/2 {
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+  }
+
+  .sm\:-translate-y-1\/2 {
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+  }
+
+  .sm\:-translate-x-full {
+    -webkit-transform: translateX(-100%);
+            transform: translateX(-100%);
+  }
+
+  .sm\:-translate-y-full {
+    -webkit-transform: translateY(-100%);
+            transform: translateY(-100%);
+  }
+
+  .sm\:scale-90 {
+    -webkit-transform: scale(.9);
+            transform: scale(.9);
+  }
+
+  .sm\:scale-x-90 {
+    -webkit-transform: scaleX(.9);
+            transform: scaleX(.9);
+  }
+
+  .sm\:scale-y-90 {
+    -webkit-transform: scaleY(.9);
+            transform: scaleY(.9);
+  }
+
+  .sm\:scale-100 {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+
+  .sm\:scale-x-100 {
+    -webkit-transform: scaleX(1);
+            transform: scaleX(1);
+  }
+
+  .sm\:scale-y-100 {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+  }
+
+  .sm\:scale-110 {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+
+  .sm\:scale-x-110 {
+    -webkit-transform: scaleX(1.1);
+            transform: scaleX(1.1);
+  }
+
+  .sm\:scale-y-110 {
+    -webkit-transform: scaleY(1.1);
+            transform: scaleY(1.1);
+  }
+
+  .sm\:rotate-90 {
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+  }
+
+  .sm\:rotate-180 {
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+  }
+
+  .sm\:rotate-270 {
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg);
+  }
+
+  .sm\:-rotate-90 {
+    -webkit-transform: rotate(-90deg);
+            transform: rotate(-90deg);
+  }
+
+  .sm\:-rotate-180 {
+    -webkit-transform: rotate(-180deg);
+            transform: rotate(-180deg);
+  }
+
+  .sm\:-rotate-270 {
+    -webkit-transform: rotate(-270deg);
+            transform: rotate(-270deg);
+  }
+
+  .sm\:skew-x-5 {
+    -webkit-transform: skewX(5deg);
+            transform: skewX(5deg);
+  }
+
+  .sm\:skew-y-5 {
+    -webkit-transform: skewY(5deg);
+            transform: skewY(5deg);
+  }
+
+  .sm\:-skew-x-5 {
+    -webkit-transform: skewX(-5deg);
+            transform: skewX(-5deg);
+  }
+
+  .sm\:-skew-y-5 {
+    -webkit-transform: skewY(-5deg);
+            transform: skewY(-5deg);
+  }
+
+  .sm\:transform-origin-t {
+    -webkit-transform-origin: 50% 0%;
+            transform-origin: 50% 0%;
+  }
+
+  .sm\:transform-origin-r {
+    -webkit-transform-origin: 100% 50%;
+            transform-origin: 100% 50%;
+  }
+
+  .sm\:transform-origin-b {
+    -webkit-transform-origin: 50% 100%;
+            transform-origin: 50% 100%;
+  }
+
+  .sm\:transform-origin-l {
+    -webkit-transform-origin: 0% 50%;
+            transform-origin: 0% 50%;
+  }
 }
 
 @media (min-width: 768px) {
@@ -12064,31 +13344,31 @@ table {
   }
 
   .md\:bg-blue-darkest {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .md\:bg-blue-darker {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .md\:bg-blue-dark {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .md\:bg-blue {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .md\:bg-blue-light {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .md\:bg-blue-lighter {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .md\:bg-blue-lightest {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .md\:bg-indigo-darkest {
@@ -12356,31 +13636,31 @@ table {
   }
 
   .md\:hover\:bg-blue-darkest:hover {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .md\:hover\:bg-blue-darker:hover {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .md\:hover\:bg-blue-dark:hover {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .md\:hover\:bg-blue:hover {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .md\:hover\:bg-blue-light:hover {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .md\:hover\:bg-blue-lighter:hover {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .md\:hover\:bg-blue-lightest:hover {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .md\:hover\:bg-indigo-darkest:hover {
@@ -12648,31 +13928,31 @@ table {
   }
 
   .md\:focus\:bg-blue-darkest:focus {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .md\:focus\:bg-blue-darker:focus {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .md\:focus\:bg-blue-dark:focus {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .md\:focus\:bg-blue:focus {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .md\:focus\:bg-blue-light:focus {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .md\:focus\:bg-blue-lighter:focus {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .md\:focus\:bg-blue-lightest:focus {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .md\:focus\:bg-indigo-darkest:focus {
@@ -13004,31 +14284,31 @@ table {
   }
 
   .md\:border-blue-darkest {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .md\:border-blue-darker {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .md\:border-blue-dark {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .md\:border-blue {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .md\:border-blue-light {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .md\:border-blue-lighter {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .md\:border-blue-lightest {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .md\:border-indigo-darkest {
@@ -13296,31 +14576,31 @@ table {
   }
 
   .md\:hover\:border-blue-darkest:hover {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .md\:hover\:border-blue-darker:hover {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .md\:hover\:border-blue-dark:hover {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .md\:hover\:border-blue:hover {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .md\:hover\:border-blue-light:hover {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .md\:hover\:border-blue-lighter:hover {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .md\:hover\:border-blue-lightest:hover {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .md\:hover\:border-indigo-darkest:hover {
@@ -13588,31 +14868,31 @@ table {
   }
 
   .md\:focus\:border-blue-darkest:focus {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .md\:focus\:border-blue-darker:focus {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .md\:focus\:border-blue-dark:focus {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .md\:focus\:border-blue:focus {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .md\:focus\:border-blue-light:focus {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .md\:focus\:border-blue-lighter:focus {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .md\:focus\:border-blue-lightest:focus {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .md\:focus\:border-indigo-darkest:focus {
@@ -14259,7 +15539,7 @@ table {
   }
 
   .md\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .md\:font-serif {
@@ -14943,6 +16223,486 @@ table {
   }
 
   .md\:ml-px {
+    margin-left: 1px;
+  }
+
+  .md\:hover\:m-0:hover {
+    margin: 0;
+  }
+
+  .md\:hover\:m-1:hover {
+    margin: .25rem;
+  }
+
+  .md\:hover\:m-2:hover {
+    margin: .5rem;
+  }
+
+  .md\:hover\:m-3:hover {
+    margin: .75rem;
+  }
+
+  .md\:hover\:m-4:hover {
+    margin: 1rem;
+  }
+
+  .md\:hover\:m-5:hover {
+    margin: 1.25rem;
+  }
+
+  .md\:hover\:m-6:hover {
+    margin: 1.5rem;
+  }
+
+  .md\:hover\:m-8:hover {
+    margin: 2rem;
+  }
+
+  .md\:hover\:m-10:hover {
+    margin: 2.5rem;
+  }
+
+  .md\:hover\:m-12:hover {
+    margin: 3rem;
+  }
+
+  .md\:hover\:m-16:hover {
+    margin: 4rem;
+  }
+
+  .md\:hover\:m-20:hover {
+    margin: 5rem;
+  }
+
+  .md\:hover\:m-24:hover {
+    margin: 6rem;
+  }
+
+  .md\:hover\:m-32:hover {
+    margin: 8rem;
+  }
+
+  .md\:hover\:m-auto:hover {
+    margin: auto;
+  }
+
+  .md\:hover\:m-px:hover {
+    margin: 1px;
+  }
+
+  .md\:hover\:my-0:hover {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .md\:hover\:mx-0:hover {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .md\:hover\:my-1:hover {
+    margin-top: .25rem;
+    margin-bottom: .25rem;
+  }
+
+  .md\:hover\:mx-1:hover {
+    margin-left: .25rem;
+    margin-right: .25rem;
+  }
+
+  .md\:hover\:my-2:hover {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+  }
+
+  .md\:hover\:mx-2:hover {
+    margin-left: .5rem;
+    margin-right: .5rem;
+  }
+
+  .md\:hover\:my-3:hover {
+    margin-top: .75rem;
+    margin-bottom: .75rem;
+  }
+
+  .md\:hover\:mx-3:hover {
+    margin-left: .75rem;
+    margin-right: .75rem;
+  }
+
+  .md\:hover\:my-4:hover {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .md\:hover\:mx-4:hover {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .md\:hover\:my-5:hover {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .md\:hover\:mx-5:hover {
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+  }
+
+  .md\:hover\:my-6:hover {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .md\:hover\:mx-6:hover {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+
+  .md\:hover\:my-8:hover {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .md\:hover\:mx-8:hover {
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+
+  .md\:hover\:my-10:hover {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .md\:hover\:mx-10:hover {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+  }
+
+  .md\:hover\:my-12:hover {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+
+  .md\:hover\:mx-12:hover {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+
+  .md\:hover\:my-16:hover {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+  }
+
+  .md\:hover\:mx-16:hover {
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
+
+  .md\:hover\:my-20:hover {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+
+  .md\:hover\:mx-20:hover {
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+
+  .md\:hover\:my-24:hover {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+  }
+
+  .md\:hover\:mx-24:hover {
+    margin-left: 6rem;
+    margin-right: 6rem;
+  }
+
+  .md\:hover\:my-32:hover {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+  }
+
+  .md\:hover\:mx-32:hover {
+    margin-left: 8rem;
+    margin-right: 8rem;
+  }
+
+  .md\:hover\:my-auto:hover {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .md\:hover\:mx-auto:hover {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .md\:hover\:my-px:hover {
+    margin-top: 1px;
+    margin-bottom: 1px;
+  }
+
+  .md\:hover\:mx-px:hover {
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .md\:hover\:mt-0:hover {
+    margin-top: 0;
+  }
+
+  .md\:hover\:mr-0:hover {
+    margin-right: 0;
+  }
+
+  .md\:hover\:mb-0:hover {
+    margin-bottom: 0;
+  }
+
+  .md\:hover\:ml-0:hover {
+    margin-left: 0;
+  }
+
+  .md\:hover\:mt-1:hover {
+    margin-top: .25rem;
+  }
+
+  .md\:hover\:mr-1:hover {
+    margin-right: .25rem;
+  }
+
+  .md\:hover\:mb-1:hover {
+    margin-bottom: .25rem;
+  }
+
+  .md\:hover\:ml-1:hover {
+    margin-left: .25rem;
+  }
+
+  .md\:hover\:mt-2:hover {
+    margin-top: .5rem;
+  }
+
+  .md\:hover\:mr-2:hover {
+    margin-right: .5rem;
+  }
+
+  .md\:hover\:mb-2:hover {
+    margin-bottom: .5rem;
+  }
+
+  .md\:hover\:ml-2:hover {
+    margin-left: .5rem;
+  }
+
+  .md\:hover\:mt-3:hover {
+    margin-top: .75rem;
+  }
+
+  .md\:hover\:mr-3:hover {
+    margin-right: .75rem;
+  }
+
+  .md\:hover\:mb-3:hover {
+    margin-bottom: .75rem;
+  }
+
+  .md\:hover\:ml-3:hover {
+    margin-left: .75rem;
+  }
+
+  .md\:hover\:mt-4:hover {
+    margin-top: 1rem;
+  }
+
+  .md\:hover\:mr-4:hover {
+    margin-right: 1rem;
+  }
+
+  .md\:hover\:mb-4:hover {
+    margin-bottom: 1rem;
+  }
+
+  .md\:hover\:ml-4:hover {
+    margin-left: 1rem;
+  }
+
+  .md\:hover\:mt-5:hover {
+    margin-top: 1.25rem;
+  }
+
+  .md\:hover\:mr-5:hover {
+    margin-right: 1.25rem;
+  }
+
+  .md\:hover\:mb-5:hover {
+    margin-bottom: 1.25rem;
+  }
+
+  .md\:hover\:ml-5:hover {
+    margin-left: 1.25rem;
+  }
+
+  .md\:hover\:mt-6:hover {
+    margin-top: 1.5rem;
+  }
+
+  .md\:hover\:mr-6:hover {
+    margin-right: 1.5rem;
+  }
+
+  .md\:hover\:mb-6:hover {
+    margin-bottom: 1.5rem;
+  }
+
+  .md\:hover\:ml-6:hover {
+    margin-left: 1.5rem;
+  }
+
+  .md\:hover\:mt-8:hover {
+    margin-top: 2rem;
+  }
+
+  .md\:hover\:mr-8:hover {
+    margin-right: 2rem;
+  }
+
+  .md\:hover\:mb-8:hover {
+    margin-bottom: 2rem;
+  }
+
+  .md\:hover\:ml-8:hover {
+    margin-left: 2rem;
+  }
+
+  .md\:hover\:mt-10:hover {
+    margin-top: 2.5rem;
+  }
+
+  .md\:hover\:mr-10:hover {
+    margin-right: 2.5rem;
+  }
+
+  .md\:hover\:mb-10:hover {
+    margin-bottom: 2.5rem;
+  }
+
+  .md\:hover\:ml-10:hover {
+    margin-left: 2.5rem;
+  }
+
+  .md\:hover\:mt-12:hover {
+    margin-top: 3rem;
+  }
+
+  .md\:hover\:mr-12:hover {
+    margin-right: 3rem;
+  }
+
+  .md\:hover\:mb-12:hover {
+    margin-bottom: 3rem;
+  }
+
+  .md\:hover\:ml-12:hover {
+    margin-left: 3rem;
+  }
+
+  .md\:hover\:mt-16:hover {
+    margin-top: 4rem;
+  }
+
+  .md\:hover\:mr-16:hover {
+    margin-right: 4rem;
+  }
+
+  .md\:hover\:mb-16:hover {
+    margin-bottom: 4rem;
+  }
+
+  .md\:hover\:ml-16:hover {
+    margin-left: 4rem;
+  }
+
+  .md\:hover\:mt-20:hover {
+    margin-top: 5rem;
+  }
+
+  .md\:hover\:mr-20:hover {
+    margin-right: 5rem;
+  }
+
+  .md\:hover\:mb-20:hover {
+    margin-bottom: 5rem;
+  }
+
+  .md\:hover\:ml-20:hover {
+    margin-left: 5rem;
+  }
+
+  .md\:hover\:mt-24:hover {
+    margin-top: 6rem;
+  }
+
+  .md\:hover\:mr-24:hover {
+    margin-right: 6rem;
+  }
+
+  .md\:hover\:mb-24:hover {
+    margin-bottom: 6rem;
+  }
+
+  .md\:hover\:ml-24:hover {
+    margin-left: 6rem;
+  }
+
+  .md\:hover\:mt-32:hover {
+    margin-top: 8rem;
+  }
+
+  .md\:hover\:mr-32:hover {
+    margin-right: 8rem;
+  }
+
+  .md\:hover\:mb-32:hover {
+    margin-bottom: 8rem;
+  }
+
+  .md\:hover\:ml-32:hover {
+    margin-left: 8rem;
+  }
+
+  .md\:hover\:mt-auto:hover {
+    margin-top: auto;
+  }
+
+  .md\:hover\:mr-auto:hover {
+    margin-right: auto;
+  }
+
+  .md\:hover\:mb-auto:hover {
+    margin-bottom: auto;
+  }
+
+  .md\:hover\:ml-auto:hover {
+    margin-left: auto;
+  }
+
+  .md\:hover\:mt-px:hover {
+    margin-top: 1px;
+  }
+
+  .md\:hover\:mr-px:hover {
+    margin-right: 1px;
+  }
+
+  .md\:hover\:mb-px:hover {
+    margin-bottom: 1px;
+  }
+
+  .md\:hover\:ml-px:hover {
     margin-left: 1px;
   }
 
@@ -16084,7 +17844,7 @@ table {
   }
 
   .md\:shadow-lg {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .md\:shadow-inner {
@@ -16108,7 +17868,7 @@ table {
   }
 
   .md\:hover\:shadow-lg:hover {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .md\:hover\:shadow-inner:hover {
@@ -16132,7 +17892,7 @@ table {
   }
 
   .md\:focus\:shadow-lg:focus {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .md\:focus\:shadow-inner:focus {
@@ -16352,31 +18112,31 @@ table {
   }
 
   .md\:text-blue-darkest {
-    color: #12283a;
+    color: #a8c;
   }
 
   .md\:text-blue-darker {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .md\:text-blue-dark {
-    color: #2779bd;
+    color: #1890;
   }
 
   .md\:text-blue {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .md\:text-blue-light {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .md\:text-blue-lighter {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .md\:text-blue-lightest {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .md\:text-indigo-darkest {
@@ -16644,31 +18404,31 @@ table {
   }
 
   .md\:hover\:text-blue-darkest:hover {
-    color: #12283a;
+    color: #a8c;
   }
 
   .md\:hover\:text-blue-darker:hover {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .md\:hover\:text-blue-dark:hover {
-    color: #2779bd;
+    color: #1890;
   }
 
   .md\:hover\:text-blue:hover {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .md\:hover\:text-blue-light:hover {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .md\:hover\:text-blue-lighter:hover {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .md\:hover\:text-blue-lightest:hover {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .md\:hover\:text-indigo-darkest:hover {
@@ -16936,31 +18696,31 @@ table {
   }
 
   .md\:focus\:text-blue-darkest:focus {
-    color: #12283a;
+    color: #a8c;
   }
 
   .md\:focus\:text-blue-darker:focus {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .md\:focus\:text-blue-dark:focus {
-    color: #2779bd;
+    color: #1890;
   }
 
   .md\:focus\:text-blue:focus {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .md\:focus\:text-blue-light:focus {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .md\:focus\:text-blue-lighter:focus {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .md\:focus\:text-blue-lightest:focus {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .md\:focus\:text-indigo-darkest:focus {
@@ -17456,6 +19216,166 @@ table {
   .md\:z-auto {
     z-index: auto;
   }
+
+  .md\:transform-none {
+    -webkit-transform: none;
+            transform: none;
+  }
+
+  .md\:translate-x-1\/2 {
+    -webkit-transform: translateX(50%);
+            transform: translateX(50%);
+  }
+
+  .md\:translate-y-1\/2 {
+    -webkit-transform: translateY(50%);
+            transform: translateY(50%);
+  }
+
+  .md\:translate-x-full {
+    -webkit-transform: translateX(100%);
+            transform: translateX(100%);
+  }
+
+  .md\:translate-y-full {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%);
+  }
+
+  .md\:-translate-x-1\/2 {
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+  }
+
+  .md\:-translate-y-1\/2 {
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+  }
+
+  .md\:-translate-x-full {
+    -webkit-transform: translateX(-100%);
+            transform: translateX(-100%);
+  }
+
+  .md\:-translate-y-full {
+    -webkit-transform: translateY(-100%);
+            transform: translateY(-100%);
+  }
+
+  .md\:scale-90 {
+    -webkit-transform: scale(.9);
+            transform: scale(.9);
+  }
+
+  .md\:scale-x-90 {
+    -webkit-transform: scaleX(.9);
+            transform: scaleX(.9);
+  }
+
+  .md\:scale-y-90 {
+    -webkit-transform: scaleY(.9);
+            transform: scaleY(.9);
+  }
+
+  .md\:scale-100 {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+
+  .md\:scale-x-100 {
+    -webkit-transform: scaleX(1);
+            transform: scaleX(1);
+  }
+
+  .md\:scale-y-100 {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+  }
+
+  .md\:scale-110 {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+
+  .md\:scale-x-110 {
+    -webkit-transform: scaleX(1.1);
+            transform: scaleX(1.1);
+  }
+
+  .md\:scale-y-110 {
+    -webkit-transform: scaleY(1.1);
+            transform: scaleY(1.1);
+  }
+
+  .md\:rotate-90 {
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+  }
+
+  .md\:rotate-180 {
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+  }
+
+  .md\:rotate-270 {
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg);
+  }
+
+  .md\:-rotate-90 {
+    -webkit-transform: rotate(-90deg);
+            transform: rotate(-90deg);
+  }
+
+  .md\:-rotate-180 {
+    -webkit-transform: rotate(-180deg);
+            transform: rotate(-180deg);
+  }
+
+  .md\:-rotate-270 {
+    -webkit-transform: rotate(-270deg);
+            transform: rotate(-270deg);
+  }
+
+  .md\:skew-x-5 {
+    -webkit-transform: skewX(5deg);
+            transform: skewX(5deg);
+  }
+
+  .md\:skew-y-5 {
+    -webkit-transform: skewY(5deg);
+            transform: skewY(5deg);
+  }
+
+  .md\:-skew-x-5 {
+    -webkit-transform: skewX(-5deg);
+            transform: skewX(-5deg);
+  }
+
+  .md\:-skew-y-5 {
+    -webkit-transform: skewY(-5deg);
+            transform: skewY(-5deg);
+  }
+
+  .md\:transform-origin-t {
+    -webkit-transform-origin: 50% 0%;
+            transform-origin: 50% 0%;
+  }
+
+  .md\:transform-origin-r {
+    -webkit-transform-origin: 100% 50%;
+            transform-origin: 100% 50%;
+  }
+
+  .md\:transform-origin-b {
+    -webkit-transform-origin: 50% 100%;
+            transform-origin: 50% 100%;
+  }
+
+  .md\:transform-origin-l {
+    -webkit-transform-origin: 0% 50%;
+            transform-origin: 0% 50%;
+  }
 }
 
 @media (min-width: 992px) {
@@ -17663,31 +19583,31 @@ table {
   }
 
   .lg\:bg-blue-darkest {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .lg\:bg-blue-darker {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .lg\:bg-blue-dark {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .lg\:bg-blue {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .lg\:bg-blue-light {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .lg\:bg-blue-lighter {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .lg\:bg-blue-lightest {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .lg\:bg-indigo-darkest {
@@ -17955,31 +19875,31 @@ table {
   }
 
   .lg\:hover\:bg-blue-darkest:hover {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .lg\:hover\:bg-blue-darker:hover {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .lg\:hover\:bg-blue-dark:hover {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .lg\:hover\:bg-blue:hover {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .lg\:hover\:bg-blue-light:hover {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .lg\:hover\:bg-blue-lighter:hover {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .lg\:hover\:bg-blue-lightest:hover {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .lg\:hover\:bg-indigo-darkest:hover {
@@ -18247,31 +20167,31 @@ table {
   }
 
   .lg\:focus\:bg-blue-darkest:focus {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .lg\:focus\:bg-blue-darker:focus {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .lg\:focus\:bg-blue-dark:focus {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .lg\:focus\:bg-blue:focus {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .lg\:focus\:bg-blue-light:focus {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .lg\:focus\:bg-blue-lighter:focus {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .lg\:focus\:bg-blue-lightest:focus {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .lg\:focus\:bg-indigo-darkest:focus {
@@ -18603,31 +20523,31 @@ table {
   }
 
   .lg\:border-blue-darkest {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .lg\:border-blue-darker {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .lg\:border-blue-dark {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .lg\:border-blue {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .lg\:border-blue-light {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .lg\:border-blue-lighter {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .lg\:border-blue-lightest {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .lg\:border-indigo-darkest {
@@ -18895,31 +20815,31 @@ table {
   }
 
   .lg\:hover\:border-blue-darkest:hover {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .lg\:hover\:border-blue-darker:hover {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .lg\:hover\:border-blue-dark:hover {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .lg\:hover\:border-blue:hover {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .lg\:hover\:border-blue-light:hover {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .lg\:hover\:border-blue-lighter:hover {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .lg\:hover\:border-blue-lightest:hover {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .lg\:hover\:border-indigo-darkest:hover {
@@ -19187,31 +21107,31 @@ table {
   }
 
   .lg\:focus\:border-blue-darkest:focus {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .lg\:focus\:border-blue-darker:focus {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .lg\:focus\:border-blue-dark:focus {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .lg\:focus\:border-blue:focus {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .lg\:focus\:border-blue-light:focus {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .lg\:focus\:border-blue-lighter:focus {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .lg\:focus\:border-blue-lightest:focus {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .lg\:focus\:border-indigo-darkest:focus {
@@ -19858,7 +21778,7 @@ table {
   }
 
   .lg\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .lg\:font-serif {
@@ -20542,6 +22462,486 @@ table {
   }
 
   .lg\:ml-px {
+    margin-left: 1px;
+  }
+
+  .lg\:hover\:m-0:hover {
+    margin: 0;
+  }
+
+  .lg\:hover\:m-1:hover {
+    margin: .25rem;
+  }
+
+  .lg\:hover\:m-2:hover {
+    margin: .5rem;
+  }
+
+  .lg\:hover\:m-3:hover {
+    margin: .75rem;
+  }
+
+  .lg\:hover\:m-4:hover {
+    margin: 1rem;
+  }
+
+  .lg\:hover\:m-5:hover {
+    margin: 1.25rem;
+  }
+
+  .lg\:hover\:m-6:hover {
+    margin: 1.5rem;
+  }
+
+  .lg\:hover\:m-8:hover {
+    margin: 2rem;
+  }
+
+  .lg\:hover\:m-10:hover {
+    margin: 2.5rem;
+  }
+
+  .lg\:hover\:m-12:hover {
+    margin: 3rem;
+  }
+
+  .lg\:hover\:m-16:hover {
+    margin: 4rem;
+  }
+
+  .lg\:hover\:m-20:hover {
+    margin: 5rem;
+  }
+
+  .lg\:hover\:m-24:hover {
+    margin: 6rem;
+  }
+
+  .lg\:hover\:m-32:hover {
+    margin: 8rem;
+  }
+
+  .lg\:hover\:m-auto:hover {
+    margin: auto;
+  }
+
+  .lg\:hover\:m-px:hover {
+    margin: 1px;
+  }
+
+  .lg\:hover\:my-0:hover {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .lg\:hover\:mx-0:hover {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .lg\:hover\:my-1:hover {
+    margin-top: .25rem;
+    margin-bottom: .25rem;
+  }
+
+  .lg\:hover\:mx-1:hover {
+    margin-left: .25rem;
+    margin-right: .25rem;
+  }
+
+  .lg\:hover\:my-2:hover {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+  }
+
+  .lg\:hover\:mx-2:hover {
+    margin-left: .5rem;
+    margin-right: .5rem;
+  }
+
+  .lg\:hover\:my-3:hover {
+    margin-top: .75rem;
+    margin-bottom: .75rem;
+  }
+
+  .lg\:hover\:mx-3:hover {
+    margin-left: .75rem;
+    margin-right: .75rem;
+  }
+
+  .lg\:hover\:my-4:hover {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .lg\:hover\:mx-4:hover {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .lg\:hover\:my-5:hover {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .lg\:hover\:mx-5:hover {
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+  }
+
+  .lg\:hover\:my-6:hover {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:hover\:mx-6:hover {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+
+  .lg\:hover\:my-8:hover {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .lg\:hover\:mx-8:hover {
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+
+  .lg\:hover\:my-10:hover {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .lg\:hover\:mx-10:hover {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+  }
+
+  .lg\:hover\:my-12:hover {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+
+  .lg\:hover\:mx-12:hover {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+
+  .lg\:hover\:my-16:hover {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+  }
+
+  .lg\:hover\:mx-16:hover {
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
+
+  .lg\:hover\:my-20:hover {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+
+  .lg\:hover\:mx-20:hover {
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+
+  .lg\:hover\:my-24:hover {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+  }
+
+  .lg\:hover\:mx-24:hover {
+    margin-left: 6rem;
+    margin-right: 6rem;
+  }
+
+  .lg\:hover\:my-32:hover {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+  }
+
+  .lg\:hover\:mx-32:hover {
+    margin-left: 8rem;
+    margin-right: 8rem;
+  }
+
+  .lg\:hover\:my-auto:hover {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .lg\:hover\:mx-auto:hover {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .lg\:hover\:my-px:hover {
+    margin-top: 1px;
+    margin-bottom: 1px;
+  }
+
+  .lg\:hover\:mx-px:hover {
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .lg\:hover\:mt-0:hover {
+    margin-top: 0;
+  }
+
+  .lg\:hover\:mr-0:hover {
+    margin-right: 0;
+  }
+
+  .lg\:hover\:mb-0:hover {
+    margin-bottom: 0;
+  }
+
+  .lg\:hover\:ml-0:hover {
+    margin-left: 0;
+  }
+
+  .lg\:hover\:mt-1:hover {
+    margin-top: .25rem;
+  }
+
+  .lg\:hover\:mr-1:hover {
+    margin-right: .25rem;
+  }
+
+  .lg\:hover\:mb-1:hover {
+    margin-bottom: .25rem;
+  }
+
+  .lg\:hover\:ml-1:hover {
+    margin-left: .25rem;
+  }
+
+  .lg\:hover\:mt-2:hover {
+    margin-top: .5rem;
+  }
+
+  .lg\:hover\:mr-2:hover {
+    margin-right: .5rem;
+  }
+
+  .lg\:hover\:mb-2:hover {
+    margin-bottom: .5rem;
+  }
+
+  .lg\:hover\:ml-2:hover {
+    margin-left: .5rem;
+  }
+
+  .lg\:hover\:mt-3:hover {
+    margin-top: .75rem;
+  }
+
+  .lg\:hover\:mr-3:hover {
+    margin-right: .75rem;
+  }
+
+  .lg\:hover\:mb-3:hover {
+    margin-bottom: .75rem;
+  }
+
+  .lg\:hover\:ml-3:hover {
+    margin-left: .75rem;
+  }
+
+  .lg\:hover\:mt-4:hover {
+    margin-top: 1rem;
+  }
+
+  .lg\:hover\:mr-4:hover {
+    margin-right: 1rem;
+  }
+
+  .lg\:hover\:mb-4:hover {
+    margin-bottom: 1rem;
+  }
+
+  .lg\:hover\:ml-4:hover {
+    margin-left: 1rem;
+  }
+
+  .lg\:hover\:mt-5:hover {
+    margin-top: 1.25rem;
+  }
+
+  .lg\:hover\:mr-5:hover {
+    margin-right: 1.25rem;
+  }
+
+  .lg\:hover\:mb-5:hover {
+    margin-bottom: 1.25rem;
+  }
+
+  .lg\:hover\:ml-5:hover {
+    margin-left: 1.25rem;
+  }
+
+  .lg\:hover\:mt-6:hover {
+    margin-top: 1.5rem;
+  }
+
+  .lg\:hover\:mr-6:hover {
+    margin-right: 1.5rem;
+  }
+
+  .lg\:hover\:mb-6:hover {
+    margin-bottom: 1.5rem;
+  }
+
+  .lg\:hover\:ml-6:hover {
+    margin-left: 1.5rem;
+  }
+
+  .lg\:hover\:mt-8:hover {
+    margin-top: 2rem;
+  }
+
+  .lg\:hover\:mr-8:hover {
+    margin-right: 2rem;
+  }
+
+  .lg\:hover\:mb-8:hover {
+    margin-bottom: 2rem;
+  }
+
+  .lg\:hover\:ml-8:hover {
+    margin-left: 2rem;
+  }
+
+  .lg\:hover\:mt-10:hover {
+    margin-top: 2.5rem;
+  }
+
+  .lg\:hover\:mr-10:hover {
+    margin-right: 2.5rem;
+  }
+
+  .lg\:hover\:mb-10:hover {
+    margin-bottom: 2.5rem;
+  }
+
+  .lg\:hover\:ml-10:hover {
+    margin-left: 2.5rem;
+  }
+
+  .lg\:hover\:mt-12:hover {
+    margin-top: 3rem;
+  }
+
+  .lg\:hover\:mr-12:hover {
+    margin-right: 3rem;
+  }
+
+  .lg\:hover\:mb-12:hover {
+    margin-bottom: 3rem;
+  }
+
+  .lg\:hover\:ml-12:hover {
+    margin-left: 3rem;
+  }
+
+  .lg\:hover\:mt-16:hover {
+    margin-top: 4rem;
+  }
+
+  .lg\:hover\:mr-16:hover {
+    margin-right: 4rem;
+  }
+
+  .lg\:hover\:mb-16:hover {
+    margin-bottom: 4rem;
+  }
+
+  .lg\:hover\:ml-16:hover {
+    margin-left: 4rem;
+  }
+
+  .lg\:hover\:mt-20:hover {
+    margin-top: 5rem;
+  }
+
+  .lg\:hover\:mr-20:hover {
+    margin-right: 5rem;
+  }
+
+  .lg\:hover\:mb-20:hover {
+    margin-bottom: 5rem;
+  }
+
+  .lg\:hover\:ml-20:hover {
+    margin-left: 5rem;
+  }
+
+  .lg\:hover\:mt-24:hover {
+    margin-top: 6rem;
+  }
+
+  .lg\:hover\:mr-24:hover {
+    margin-right: 6rem;
+  }
+
+  .lg\:hover\:mb-24:hover {
+    margin-bottom: 6rem;
+  }
+
+  .lg\:hover\:ml-24:hover {
+    margin-left: 6rem;
+  }
+
+  .lg\:hover\:mt-32:hover {
+    margin-top: 8rem;
+  }
+
+  .lg\:hover\:mr-32:hover {
+    margin-right: 8rem;
+  }
+
+  .lg\:hover\:mb-32:hover {
+    margin-bottom: 8rem;
+  }
+
+  .lg\:hover\:ml-32:hover {
+    margin-left: 8rem;
+  }
+
+  .lg\:hover\:mt-auto:hover {
+    margin-top: auto;
+  }
+
+  .lg\:hover\:mr-auto:hover {
+    margin-right: auto;
+  }
+
+  .lg\:hover\:mb-auto:hover {
+    margin-bottom: auto;
+  }
+
+  .lg\:hover\:ml-auto:hover {
+    margin-left: auto;
+  }
+
+  .lg\:hover\:mt-px:hover {
+    margin-top: 1px;
+  }
+
+  .lg\:hover\:mr-px:hover {
+    margin-right: 1px;
+  }
+
+  .lg\:hover\:mb-px:hover {
+    margin-bottom: 1px;
+  }
+
+  .lg\:hover\:ml-px:hover {
     margin-left: 1px;
   }
 
@@ -21683,7 +24083,7 @@ table {
   }
 
   .lg\:shadow-lg {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .lg\:shadow-inner {
@@ -21707,7 +24107,7 @@ table {
   }
 
   .lg\:hover\:shadow-lg:hover {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .lg\:hover\:shadow-inner:hover {
@@ -21731,7 +24131,7 @@ table {
   }
 
   .lg\:focus\:shadow-lg:focus {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .lg\:focus\:shadow-inner:focus {
@@ -21951,31 +24351,31 @@ table {
   }
 
   .lg\:text-blue-darkest {
-    color: #12283a;
+    color: #a8c;
   }
 
   .lg\:text-blue-darker {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .lg\:text-blue-dark {
-    color: #2779bd;
+    color: #1890;
   }
 
   .lg\:text-blue {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .lg\:text-blue-light {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .lg\:text-blue-lighter {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .lg\:text-blue-lightest {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .lg\:text-indigo-darkest {
@@ -22243,31 +24643,31 @@ table {
   }
 
   .lg\:hover\:text-blue-darkest:hover {
-    color: #12283a;
+    color: #a8c;
   }
 
   .lg\:hover\:text-blue-darker:hover {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .lg\:hover\:text-blue-dark:hover {
-    color: #2779bd;
+    color: #1890;
   }
 
   .lg\:hover\:text-blue:hover {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .lg\:hover\:text-blue-light:hover {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .lg\:hover\:text-blue-lighter:hover {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .lg\:hover\:text-blue-lightest:hover {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .lg\:hover\:text-indigo-darkest:hover {
@@ -22535,31 +24935,31 @@ table {
   }
 
   .lg\:focus\:text-blue-darkest:focus {
-    color: #12283a;
+    color: #a8c;
   }
 
   .lg\:focus\:text-blue-darker:focus {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .lg\:focus\:text-blue-dark:focus {
-    color: #2779bd;
+    color: #1890;
   }
 
   .lg\:focus\:text-blue:focus {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .lg\:focus\:text-blue-light:focus {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .lg\:focus\:text-blue-lighter:focus {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .lg\:focus\:text-blue-lightest:focus {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .lg\:focus\:text-indigo-darkest:focus {
@@ -23055,6 +25455,166 @@ table {
   .lg\:z-auto {
     z-index: auto;
   }
+
+  .lg\:transform-none {
+    -webkit-transform: none;
+            transform: none;
+  }
+
+  .lg\:translate-x-1\/2 {
+    -webkit-transform: translateX(50%);
+            transform: translateX(50%);
+  }
+
+  .lg\:translate-y-1\/2 {
+    -webkit-transform: translateY(50%);
+            transform: translateY(50%);
+  }
+
+  .lg\:translate-x-full {
+    -webkit-transform: translateX(100%);
+            transform: translateX(100%);
+  }
+
+  .lg\:translate-y-full {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%);
+  }
+
+  .lg\:-translate-x-1\/2 {
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+  }
+
+  .lg\:-translate-y-1\/2 {
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+  }
+
+  .lg\:-translate-x-full {
+    -webkit-transform: translateX(-100%);
+            transform: translateX(-100%);
+  }
+
+  .lg\:-translate-y-full {
+    -webkit-transform: translateY(-100%);
+            transform: translateY(-100%);
+  }
+
+  .lg\:scale-90 {
+    -webkit-transform: scale(.9);
+            transform: scale(.9);
+  }
+
+  .lg\:scale-x-90 {
+    -webkit-transform: scaleX(.9);
+            transform: scaleX(.9);
+  }
+
+  .lg\:scale-y-90 {
+    -webkit-transform: scaleY(.9);
+            transform: scaleY(.9);
+  }
+
+  .lg\:scale-100 {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+
+  .lg\:scale-x-100 {
+    -webkit-transform: scaleX(1);
+            transform: scaleX(1);
+  }
+
+  .lg\:scale-y-100 {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+  }
+
+  .lg\:scale-110 {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+
+  .lg\:scale-x-110 {
+    -webkit-transform: scaleX(1.1);
+            transform: scaleX(1.1);
+  }
+
+  .lg\:scale-y-110 {
+    -webkit-transform: scaleY(1.1);
+            transform: scaleY(1.1);
+  }
+
+  .lg\:rotate-90 {
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+  }
+
+  .lg\:rotate-180 {
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+  }
+
+  .lg\:rotate-270 {
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg);
+  }
+
+  .lg\:-rotate-90 {
+    -webkit-transform: rotate(-90deg);
+            transform: rotate(-90deg);
+  }
+
+  .lg\:-rotate-180 {
+    -webkit-transform: rotate(-180deg);
+            transform: rotate(-180deg);
+  }
+
+  .lg\:-rotate-270 {
+    -webkit-transform: rotate(-270deg);
+            transform: rotate(-270deg);
+  }
+
+  .lg\:skew-x-5 {
+    -webkit-transform: skewX(5deg);
+            transform: skewX(5deg);
+  }
+
+  .lg\:skew-y-5 {
+    -webkit-transform: skewY(5deg);
+            transform: skewY(5deg);
+  }
+
+  .lg\:-skew-x-5 {
+    -webkit-transform: skewX(-5deg);
+            transform: skewX(-5deg);
+  }
+
+  .lg\:-skew-y-5 {
+    -webkit-transform: skewY(-5deg);
+            transform: skewY(-5deg);
+  }
+
+  .lg\:transform-origin-t {
+    -webkit-transform-origin: 50% 0%;
+            transform-origin: 50% 0%;
+  }
+
+  .lg\:transform-origin-r {
+    -webkit-transform-origin: 100% 50%;
+            transform-origin: 100% 50%;
+  }
+
+  .lg\:transform-origin-b {
+    -webkit-transform-origin: 50% 100%;
+            transform-origin: 50% 100%;
+  }
+
+  .lg\:transform-origin-l {
+    -webkit-transform-origin: 0% 50%;
+            transform-origin: 0% 50%;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -23262,31 +25822,31 @@ table {
   }
 
   .xl\:bg-blue-darkest {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .xl\:bg-blue-darker {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .xl\:bg-blue-dark {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .xl\:bg-blue {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .xl\:bg-blue-light {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .xl\:bg-blue-lighter {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .xl\:bg-blue-lightest {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .xl\:bg-indigo-darkest {
@@ -23554,31 +26114,31 @@ table {
   }
 
   .xl\:hover\:bg-blue-darkest:hover {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .xl\:hover\:bg-blue-darker:hover {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .xl\:hover\:bg-blue-dark:hover {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .xl\:hover\:bg-blue:hover {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .xl\:hover\:bg-blue-light:hover {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .xl\:hover\:bg-blue-lighter:hover {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .xl\:hover\:bg-blue-lightest:hover {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .xl\:hover\:bg-indigo-darkest:hover {
@@ -23846,31 +26406,31 @@ table {
   }
 
   .xl\:focus\:bg-blue-darkest:focus {
-    background-color: #12283a;
+    background-color: #a8c;
   }
 
   .xl\:focus\:bg-blue-darker:focus {
-    background-color: #1c3d5a;
+    background-color: #0050;
   }
 
   .xl\:focus\:bg-blue-dark:focus {
-    background-color: #2779bd;
+    background-color: #1890;
   }
 
   .xl\:focus\:bg-blue:focus {
-    background-color: #3490dc;
+    background-color: #1890ff;
   }
 
   .xl\:focus\:bg-blue-light:focus {
-    background-color: #6cb2eb;
+    background-color: #a9ff;
   }
 
   .xl\:focus\:bg-blue-lighter:focus {
-    background-color: #bcdefa;
+    background-color: #bae7ff;
   }
 
   .xl\:focus\:bg-blue-lightest:focus {
-    background-color: #eff8ff;
+    background-color: #e6f7ff;
   }
 
   .xl\:focus\:bg-indigo-darkest:focus {
@@ -24202,31 +26762,31 @@ table {
   }
 
   .xl\:border-blue-darkest {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .xl\:border-blue-darker {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .xl\:border-blue-dark {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .xl\:border-blue {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .xl\:border-blue-light {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .xl\:border-blue-lighter {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .xl\:border-blue-lightest {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .xl\:border-indigo-darkest {
@@ -24494,31 +27054,31 @@ table {
   }
 
   .xl\:hover\:border-blue-darkest:hover {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .xl\:hover\:border-blue-darker:hover {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .xl\:hover\:border-blue-dark:hover {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .xl\:hover\:border-blue:hover {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .xl\:hover\:border-blue-light:hover {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .xl\:hover\:border-blue-lighter:hover {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .xl\:hover\:border-blue-lightest:hover {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .xl\:hover\:border-indigo-darkest:hover {
@@ -24786,31 +27346,31 @@ table {
   }
 
   .xl\:focus\:border-blue-darkest:focus {
-    border-color: #12283a;
+    border-color: #a8c;
   }
 
   .xl\:focus\:border-blue-darker:focus {
-    border-color: #1c3d5a;
+    border-color: #0050;
   }
 
   .xl\:focus\:border-blue-dark:focus {
-    border-color: #2779bd;
+    border-color: #1890;
   }
 
   .xl\:focus\:border-blue:focus {
-    border-color: #3490dc;
+    border-color: #1890ff;
   }
 
   .xl\:focus\:border-blue-light:focus {
-    border-color: #6cb2eb;
+    border-color: #a9ff;
   }
 
   .xl\:focus\:border-blue-lighter:focus {
-    border-color: #bcdefa;
+    border-color: #bae7ff;
   }
 
   .xl\:focus\:border-blue-lightest:focus {
-    border-color: #eff8ff;
+    border-color: #e6f7ff;
   }
 
   .xl\:focus\:border-indigo-darkest:focus {
@@ -25457,7 +28017,7 @@ table {
   }
 
   .xl\:font-sans {
-    font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   }
 
   .xl\:font-serif {
@@ -26141,6 +28701,486 @@ table {
   }
 
   .xl\:ml-px {
+    margin-left: 1px;
+  }
+
+  .xl\:hover\:m-0:hover {
+    margin: 0;
+  }
+
+  .xl\:hover\:m-1:hover {
+    margin: .25rem;
+  }
+
+  .xl\:hover\:m-2:hover {
+    margin: .5rem;
+  }
+
+  .xl\:hover\:m-3:hover {
+    margin: .75rem;
+  }
+
+  .xl\:hover\:m-4:hover {
+    margin: 1rem;
+  }
+
+  .xl\:hover\:m-5:hover {
+    margin: 1.25rem;
+  }
+
+  .xl\:hover\:m-6:hover {
+    margin: 1.5rem;
+  }
+
+  .xl\:hover\:m-8:hover {
+    margin: 2rem;
+  }
+
+  .xl\:hover\:m-10:hover {
+    margin: 2.5rem;
+  }
+
+  .xl\:hover\:m-12:hover {
+    margin: 3rem;
+  }
+
+  .xl\:hover\:m-16:hover {
+    margin: 4rem;
+  }
+
+  .xl\:hover\:m-20:hover {
+    margin: 5rem;
+  }
+
+  .xl\:hover\:m-24:hover {
+    margin: 6rem;
+  }
+
+  .xl\:hover\:m-32:hover {
+    margin: 8rem;
+  }
+
+  .xl\:hover\:m-auto:hover {
+    margin: auto;
+  }
+
+  .xl\:hover\:m-px:hover {
+    margin: 1px;
+  }
+
+  .xl\:hover\:my-0:hover {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .xl\:hover\:mx-0:hover {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .xl\:hover\:my-1:hover {
+    margin-top: .25rem;
+    margin-bottom: .25rem;
+  }
+
+  .xl\:hover\:mx-1:hover {
+    margin-left: .25rem;
+    margin-right: .25rem;
+  }
+
+  .xl\:hover\:my-2:hover {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+  }
+
+  .xl\:hover\:mx-2:hover {
+    margin-left: .5rem;
+    margin-right: .5rem;
+  }
+
+  .xl\:hover\:my-3:hover {
+    margin-top: .75rem;
+    margin-bottom: .75rem;
+  }
+
+  .xl\:hover\:mx-3:hover {
+    margin-left: .75rem;
+    margin-right: .75rem;
+  }
+
+  .xl\:hover\:my-4:hover {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .xl\:hover\:mx-4:hover {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .xl\:hover\:my-5:hover {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .xl\:hover\:mx-5:hover {
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+  }
+
+  .xl\:hover\:my-6:hover {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .xl\:hover\:mx-6:hover {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+
+  .xl\:hover\:my-8:hover {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .xl\:hover\:mx-8:hover {
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+
+  .xl\:hover\:my-10:hover {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .xl\:hover\:mx-10:hover {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+  }
+
+  .xl\:hover\:my-12:hover {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+
+  .xl\:hover\:mx-12:hover {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+
+  .xl\:hover\:my-16:hover {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+  }
+
+  .xl\:hover\:mx-16:hover {
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
+
+  .xl\:hover\:my-20:hover {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+
+  .xl\:hover\:mx-20:hover {
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+
+  .xl\:hover\:my-24:hover {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+  }
+
+  .xl\:hover\:mx-24:hover {
+    margin-left: 6rem;
+    margin-right: 6rem;
+  }
+
+  .xl\:hover\:my-32:hover {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+  }
+
+  .xl\:hover\:mx-32:hover {
+    margin-left: 8rem;
+    margin-right: 8rem;
+  }
+
+  .xl\:hover\:my-auto:hover {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .xl\:hover\:mx-auto:hover {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .xl\:hover\:my-px:hover {
+    margin-top: 1px;
+    margin-bottom: 1px;
+  }
+
+  .xl\:hover\:mx-px:hover {
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .xl\:hover\:mt-0:hover {
+    margin-top: 0;
+  }
+
+  .xl\:hover\:mr-0:hover {
+    margin-right: 0;
+  }
+
+  .xl\:hover\:mb-0:hover {
+    margin-bottom: 0;
+  }
+
+  .xl\:hover\:ml-0:hover {
+    margin-left: 0;
+  }
+
+  .xl\:hover\:mt-1:hover {
+    margin-top: .25rem;
+  }
+
+  .xl\:hover\:mr-1:hover {
+    margin-right: .25rem;
+  }
+
+  .xl\:hover\:mb-1:hover {
+    margin-bottom: .25rem;
+  }
+
+  .xl\:hover\:ml-1:hover {
+    margin-left: .25rem;
+  }
+
+  .xl\:hover\:mt-2:hover {
+    margin-top: .5rem;
+  }
+
+  .xl\:hover\:mr-2:hover {
+    margin-right: .5rem;
+  }
+
+  .xl\:hover\:mb-2:hover {
+    margin-bottom: .5rem;
+  }
+
+  .xl\:hover\:ml-2:hover {
+    margin-left: .5rem;
+  }
+
+  .xl\:hover\:mt-3:hover {
+    margin-top: .75rem;
+  }
+
+  .xl\:hover\:mr-3:hover {
+    margin-right: .75rem;
+  }
+
+  .xl\:hover\:mb-3:hover {
+    margin-bottom: .75rem;
+  }
+
+  .xl\:hover\:ml-3:hover {
+    margin-left: .75rem;
+  }
+
+  .xl\:hover\:mt-4:hover {
+    margin-top: 1rem;
+  }
+
+  .xl\:hover\:mr-4:hover {
+    margin-right: 1rem;
+  }
+
+  .xl\:hover\:mb-4:hover {
+    margin-bottom: 1rem;
+  }
+
+  .xl\:hover\:ml-4:hover {
+    margin-left: 1rem;
+  }
+
+  .xl\:hover\:mt-5:hover {
+    margin-top: 1.25rem;
+  }
+
+  .xl\:hover\:mr-5:hover {
+    margin-right: 1.25rem;
+  }
+
+  .xl\:hover\:mb-5:hover {
+    margin-bottom: 1.25rem;
+  }
+
+  .xl\:hover\:ml-5:hover {
+    margin-left: 1.25rem;
+  }
+
+  .xl\:hover\:mt-6:hover {
+    margin-top: 1.5rem;
+  }
+
+  .xl\:hover\:mr-6:hover {
+    margin-right: 1.5rem;
+  }
+
+  .xl\:hover\:mb-6:hover {
+    margin-bottom: 1.5rem;
+  }
+
+  .xl\:hover\:ml-6:hover {
+    margin-left: 1.5rem;
+  }
+
+  .xl\:hover\:mt-8:hover {
+    margin-top: 2rem;
+  }
+
+  .xl\:hover\:mr-8:hover {
+    margin-right: 2rem;
+  }
+
+  .xl\:hover\:mb-8:hover {
+    margin-bottom: 2rem;
+  }
+
+  .xl\:hover\:ml-8:hover {
+    margin-left: 2rem;
+  }
+
+  .xl\:hover\:mt-10:hover {
+    margin-top: 2.5rem;
+  }
+
+  .xl\:hover\:mr-10:hover {
+    margin-right: 2.5rem;
+  }
+
+  .xl\:hover\:mb-10:hover {
+    margin-bottom: 2.5rem;
+  }
+
+  .xl\:hover\:ml-10:hover {
+    margin-left: 2.5rem;
+  }
+
+  .xl\:hover\:mt-12:hover {
+    margin-top: 3rem;
+  }
+
+  .xl\:hover\:mr-12:hover {
+    margin-right: 3rem;
+  }
+
+  .xl\:hover\:mb-12:hover {
+    margin-bottom: 3rem;
+  }
+
+  .xl\:hover\:ml-12:hover {
+    margin-left: 3rem;
+  }
+
+  .xl\:hover\:mt-16:hover {
+    margin-top: 4rem;
+  }
+
+  .xl\:hover\:mr-16:hover {
+    margin-right: 4rem;
+  }
+
+  .xl\:hover\:mb-16:hover {
+    margin-bottom: 4rem;
+  }
+
+  .xl\:hover\:ml-16:hover {
+    margin-left: 4rem;
+  }
+
+  .xl\:hover\:mt-20:hover {
+    margin-top: 5rem;
+  }
+
+  .xl\:hover\:mr-20:hover {
+    margin-right: 5rem;
+  }
+
+  .xl\:hover\:mb-20:hover {
+    margin-bottom: 5rem;
+  }
+
+  .xl\:hover\:ml-20:hover {
+    margin-left: 5rem;
+  }
+
+  .xl\:hover\:mt-24:hover {
+    margin-top: 6rem;
+  }
+
+  .xl\:hover\:mr-24:hover {
+    margin-right: 6rem;
+  }
+
+  .xl\:hover\:mb-24:hover {
+    margin-bottom: 6rem;
+  }
+
+  .xl\:hover\:ml-24:hover {
+    margin-left: 6rem;
+  }
+
+  .xl\:hover\:mt-32:hover {
+    margin-top: 8rem;
+  }
+
+  .xl\:hover\:mr-32:hover {
+    margin-right: 8rem;
+  }
+
+  .xl\:hover\:mb-32:hover {
+    margin-bottom: 8rem;
+  }
+
+  .xl\:hover\:ml-32:hover {
+    margin-left: 8rem;
+  }
+
+  .xl\:hover\:mt-auto:hover {
+    margin-top: auto;
+  }
+
+  .xl\:hover\:mr-auto:hover {
+    margin-right: auto;
+  }
+
+  .xl\:hover\:mb-auto:hover {
+    margin-bottom: auto;
+  }
+
+  .xl\:hover\:ml-auto:hover {
+    margin-left: auto;
+  }
+
+  .xl\:hover\:mt-px:hover {
+    margin-top: 1px;
+  }
+
+  .xl\:hover\:mr-px:hover {
+    margin-right: 1px;
+  }
+
+  .xl\:hover\:mb-px:hover {
+    margin-bottom: 1px;
+  }
+
+  .xl\:hover\:ml-px:hover {
     margin-left: 1px;
   }
 
@@ -27282,7 +30322,7 @@ table {
   }
 
   .xl\:shadow-lg {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .xl\:shadow-inner {
@@ -27306,7 +30346,7 @@ table {
   }
 
   .xl\:hover\:shadow-lg:hover {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .xl\:hover\:shadow-inner:hover {
@@ -27330,7 +30370,7 @@ table {
   }
 
   .xl\:focus\:shadow-lg:focus {
-    box-shadow: 0 15px 30px 0 rgba(0, 0, 0, .11), 0 5px 15px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3);
   }
 
   .xl\:focus\:shadow-inner:focus {
@@ -27550,31 +30590,31 @@ table {
   }
 
   .xl\:text-blue-darkest {
-    color: #12283a;
+    color: #a8c;
   }
 
   .xl\:text-blue-darker {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .xl\:text-blue-dark {
-    color: #2779bd;
+    color: #1890;
   }
 
   .xl\:text-blue {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .xl\:text-blue-light {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .xl\:text-blue-lighter {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .xl\:text-blue-lightest {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .xl\:text-indigo-darkest {
@@ -27842,31 +30882,31 @@ table {
   }
 
   .xl\:hover\:text-blue-darkest:hover {
-    color: #12283a;
+    color: #a8c;
   }
 
   .xl\:hover\:text-blue-darker:hover {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .xl\:hover\:text-blue-dark:hover {
-    color: #2779bd;
+    color: #1890;
   }
 
   .xl\:hover\:text-blue:hover {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .xl\:hover\:text-blue-light:hover {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .xl\:hover\:text-blue-lighter:hover {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .xl\:hover\:text-blue-lightest:hover {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .xl\:hover\:text-indigo-darkest:hover {
@@ -28134,31 +31174,31 @@ table {
   }
 
   .xl\:focus\:text-blue-darkest:focus {
-    color: #12283a;
+    color: #a8c;
   }
 
   .xl\:focus\:text-blue-darker:focus {
-    color: #1c3d5a;
+    color: #0050;
   }
 
   .xl\:focus\:text-blue-dark:focus {
-    color: #2779bd;
+    color: #1890;
   }
 
   .xl\:focus\:text-blue:focus {
-    color: #3490dc;
+    color: #1890ff;
   }
 
   .xl\:focus\:text-blue-light:focus {
-    color: #6cb2eb;
+    color: #a9ff;
   }
 
   .xl\:focus\:text-blue-lighter:focus {
-    color: #bcdefa;
+    color: #bae7ff;
   }
 
   .xl\:focus\:text-blue-lightest:focus {
-    color: #eff8ff;
+    color: #e6f7ff;
   }
 
   .xl\:focus\:text-indigo-darkest:focus {
@@ -28653,5 +31693,165 @@ table {
 
   .xl\:z-auto {
     z-index: auto;
+  }
+
+  .xl\:transform-none {
+    -webkit-transform: none;
+            transform: none;
+  }
+
+  .xl\:translate-x-1\/2 {
+    -webkit-transform: translateX(50%);
+            transform: translateX(50%);
+  }
+
+  .xl\:translate-y-1\/2 {
+    -webkit-transform: translateY(50%);
+            transform: translateY(50%);
+  }
+
+  .xl\:translate-x-full {
+    -webkit-transform: translateX(100%);
+            transform: translateX(100%);
+  }
+
+  .xl\:translate-y-full {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%);
+  }
+
+  .xl\:-translate-x-1\/2 {
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+  }
+
+  .xl\:-translate-y-1\/2 {
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+  }
+
+  .xl\:-translate-x-full {
+    -webkit-transform: translateX(-100%);
+            transform: translateX(-100%);
+  }
+
+  .xl\:-translate-y-full {
+    -webkit-transform: translateY(-100%);
+            transform: translateY(-100%);
+  }
+
+  .xl\:scale-90 {
+    -webkit-transform: scale(.9);
+            transform: scale(.9);
+  }
+
+  .xl\:scale-x-90 {
+    -webkit-transform: scaleX(.9);
+            transform: scaleX(.9);
+  }
+
+  .xl\:scale-y-90 {
+    -webkit-transform: scaleY(.9);
+            transform: scaleY(.9);
+  }
+
+  .xl\:scale-100 {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+
+  .xl\:scale-x-100 {
+    -webkit-transform: scaleX(1);
+            transform: scaleX(1);
+  }
+
+  .xl\:scale-y-100 {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+  }
+
+  .xl\:scale-110 {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+
+  .xl\:scale-x-110 {
+    -webkit-transform: scaleX(1.1);
+            transform: scaleX(1.1);
+  }
+
+  .xl\:scale-y-110 {
+    -webkit-transform: scaleY(1.1);
+            transform: scaleY(1.1);
+  }
+
+  .xl\:rotate-90 {
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+  }
+
+  .xl\:rotate-180 {
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+  }
+
+  .xl\:rotate-270 {
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg);
+  }
+
+  .xl\:-rotate-90 {
+    -webkit-transform: rotate(-90deg);
+            transform: rotate(-90deg);
+  }
+
+  .xl\:-rotate-180 {
+    -webkit-transform: rotate(-180deg);
+            transform: rotate(-180deg);
+  }
+
+  .xl\:-rotate-270 {
+    -webkit-transform: rotate(-270deg);
+            transform: rotate(-270deg);
+  }
+
+  .xl\:skew-x-5 {
+    -webkit-transform: skewX(5deg);
+            transform: skewX(5deg);
+  }
+
+  .xl\:skew-y-5 {
+    -webkit-transform: skewY(5deg);
+            transform: skewY(5deg);
+  }
+
+  .xl\:-skew-x-5 {
+    -webkit-transform: skewX(-5deg);
+            transform: skewX(-5deg);
+  }
+
+  .xl\:-skew-y-5 {
+    -webkit-transform: skewY(-5deg);
+            transform: skewY(-5deg);
+  }
+
+  .xl\:transform-origin-t {
+    -webkit-transform-origin: 50% 0%;
+            transform-origin: 50% 0%;
+  }
+
+  .xl\:transform-origin-r {
+    -webkit-transform-origin: 100% 50%;
+            transform-origin: 100% 50%;
+  }
+
+  .xl\:transform-origin-b {
+    -webkit-transform-origin: 50% 100%;
+            transform-origin: 50% 100%;
+  }
+
+  .xl\:transform-origin-l {
+    -webkit-transform-origin: 0% 50%;
+            transform-origin: 0% 50%;
   }
 }

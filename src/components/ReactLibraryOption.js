@@ -1,23 +1,23 @@
 import React, {useState} from "react"
-import {List, Radio} from 'antd';
+import {List, Radio, Icon} from 'antd';
 import cc from "classcat"
-import Antd from "./Antd"
 
-const RadioButton = Radio.Button;
-const RadioGroup = Radio.Group;
 
-export default function ({title}) {
+export default function ({title, description}) {
     const [selected, setSelected] = useState(false);
-    const className = cc(['p-4 rounded transition cursor-pointer uppercase tracking-wide font-lg text-white text-bold',
+    const className = cc(['text-left rounded-lg overflow-hidden transition cursor-pointer text-bold shadow-lg hover:mt-4',
         {
-            'bg-blue': !selected,
+            'bg-white': !selected,
             'bg-green': selected
         }]);
     return <List.Item onClick={() => setSelected(true)}>
         <div className={className}>
-            {title}
+            <div class="p-4">
+            <div className={"text-blue text-lg"}>{title} <Icon type="right-square" theme="twoTone" /></div>
+            <div className={"mt-2"}>{description}</div>
+            </div>
+            <div className={"bg-blue-lighter text-blue py-2 text-center"}>View <b>33</b> Components</div>
         </div>
-        <Antd/>
 
     </List.Item>
 }

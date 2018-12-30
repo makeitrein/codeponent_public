@@ -15,7 +15,8 @@
     "react": "next",
     "react-apollo": "^2.3.3",
     "react-dom": "next",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "tailwindcss-transforms": "^1.0.2"
   },
   "scripts": {
     "tailwind:css": "tailwind build src/css/tailwind.src.css -c  tailwind.js -o src/css/tailwind.css",

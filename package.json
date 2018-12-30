@@ -3,15 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
+    "@craco/craco": "^3.2.3",
+    "antd": "^3.11.2",
+    "apollo-boost": "^0.1.22",
+    "craco-antd": "^1.9.3",
+    "cssnano": "^4.1.8",
+    "graphql": "^14.0.2",
+    "mime": "^2.4.0",
+    "react": "next",
+    "react-apollo": "^2.3.3",
+    "react-dom": "next",
     "react-scripts": "2.1.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "craco start",
+    "build": "craco build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "craco eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -21,5 +29,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "autoprefixer": "^9.4.3",
+    "precss": "^4.0.0",
+    "tailwindcss": "^0.7.3"
+  }
 }

@@ -6,8 +6,10 @@
     "@craco/craco": "^3.2.3",
     "antd": "^3.11.2",
     "apollo-boost": "^0.1.22",
+    "classcat": "^3.2.3",
+    "classnames": "^2.2.6",
     "craco-antd": "^1.9.3",
-    "cssnano": "^4.1.8",
+    "glhd-tailwindcss-transitions": "^0.3.0",
     "graphql": "^14.0.2",
     "mime": "^2.4.0",
     "react": "next",
@@ -16,8 +18,9 @@
     "react-scripts": "2.1.1"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
+    "tailwind:css": "tailwind build src/css/tailwind.src.css -c  tailwind.js -o src/css/tailwind.css",
+    "start": "npm run tailwind:css && craco start",
+    "build": "npm run tailwind:css && craco build",
     "test": "react-scripts test",
     "eject": "craco eject"
   },
@@ -31,8 +34,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "autoprefixer": "^9.4.3",
-    "precss": "^4.0.0",
     "tailwindcss": "^0.7.3"
   }
 }

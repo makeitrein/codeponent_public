@@ -7,22 +7,46 @@ import ReactLibraryOption from './ReactLibraryOption';
 
 const mockData = [
     {
-        title: 'Title 1',
+        title: 'AntD',
     },
     {
-        title: 'Title 2',
+        title: 'Blueprint',
     },
     {
-        title: 'Title 3',
+        title: 'Material UI',
     },
     {
-        title: 'Title 4',
+        title: 'React Toolbox',
     },
     {
-        title: 'Title 5',
+        title: 'Gatsby',
     },
     {
-        title: 'Title 6',
+        title: 'Fabric',
+    },
+    {
+        title: 'Fabric',
+    },
+    {
+        title: 'Evergreen',
+    },
+    {
+        title: 'Gestalt',
+    },
+    {
+        title: 'Atlaskit',
+    },
+    {
+        title: 'Elastic UI',
+    },
+    {
+        title: 'Grommet',
+    },
+    {
+        title: 'Semantic UI',
+    },
+    {
+        title: 'Onsen',
     },
 ];
 
@@ -47,11 +71,11 @@ const ReactLibrarySelector = (client) => (
             return (<div>
                     <List
                         grid={{
-                            gutter: 16, xs: 1, sm: 2, md: 4, lg: 4, xl: 6, xxl: 3,
+                            gutter: 16, xs: 1, sm: 2, md: 4, lg: 6, xl: 8,
                         }}
                         dataSource={mockData}
                         renderItem={item => (
-                            <ReactLibraryOption />
+                            <ReactLibraryOption {...item} />
                         )}
                     />
             </div>)

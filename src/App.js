@@ -14,9 +14,9 @@ const client = new ApolloClient({
 
 const App = () => (
     <ApolloProvider client={client}>
-        <div className="font-sans">
+            <div className="container m-auto py-32">
             <ReactLibrarySelector />
-        </div>
+            </div>
     </ApolloProvider>
 )
 
